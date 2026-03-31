@@ -1,0 +1,1471 @@
+PFAS_1,PFAS_2,Correlation,p_value,Region,Group_1,Group_2,Significance
+FTSA6_2,FTSA8_2,NA,NA,SSS,Precursor,Precursor,
+FTSA6_2,FOSA,NA,NA,SSS,Precursor,Precursor,
+FTSA6_2,N_ETFOSAA,NA,NA,SSS,Precursor,Precursor,
+FTSA6_2,N_MEFOSAA,NA,NA,SSS,Precursor,Precursor,
+FTSA6_2,PFBA,NA,NA,SSS,Precursor,Short-chain,
+FTSA6_2,PFBS,NA,NA,SSS,Precursor,Short-chain,
+FTSA6_2,PFHPA,NA,NA,SSS,Precursor,Short-chain,
+FTSA6_2,PFHXA,NA,NA,SSS,Precursor,Legacy Acids,
+FTSA6_2,PFOA,NA,NA,SSS,Precursor,Legacy Acids,
+FTSA6_2,PFNA,NA,NA,SSS,Precursor,Legacy Acids,
+FTSA6_2,PFDA,NA,NA,SSS,Precursor,Legacy Acids,
+FTSA6_2,PFDOA,NA,NA,SSS,Precursor,Legacy Acids,
+FTSA6_2,PFTRDA,NA,NA,SSS,Precursor,Legacy Acids,
+FTSA6_2,PFTEDA,NA,NA,SSS,Precursor,Legacy Acids,
+FTSA6_2,PFUNDA,NA,NA,SSS,Precursor,Legacy Sulfonates,
+FTSA6_2,PFHXS,NA,NA,SSS,Precursor,Legacy Sulfonates,
+FTSA6_2,PFOS,NA,NA,SSS,Precursor,Legacy Sulfonates,
+FTSA6_2,PFPES,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFHPS,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFDS,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+FTSA8_2,FOSA,0.11,0.66,SSS,Precursor,Precursor,
+FTSA8_2,N_ETFOSAA,NA,NA,SSS,Precursor,Precursor,
+FTSA8_2,N_MEFOSAA,NA,NA,SSS,Precursor,Precursor,
+FTSA8_2,PFBA,0.41,0.10,SSS,Precursor,Short-chain,
+FTSA8_2,PFBS,NA,NA,SSS,Precursor,Short-chain,
+FTSA8_2,PFHPA,0.61,0.01,SSS,Precursor,Short-chain,**
+FTSA8_2,PFHXA,NA,NA,SSS,Precursor,Legacy Acids,
+FTSA8_2,PFOA,-0.15,0.56,SSS,Precursor,Legacy Acids,
+FTSA8_2,PFNA,-0.31,0.23,SSS,Precursor,Legacy Acids,
+FTSA8_2,PFDA,-0.31,0.23,SSS,Precursor,Legacy Acids,
+FTSA8_2,PFDOA,-0.20,0.43,SSS,Precursor,Legacy Acids,
+FTSA8_2,PFTRDA,-0.31,0.23,SSS,Precursor,Legacy Acids,
+FTSA8_2,PFTEDA,-0.05,0.85,SSS,Precursor,Legacy Acids,
+FTSA8_2,PFUNDA,-0.31,0.23,SSS,Precursor,Legacy Sulfonates,
+FTSA8_2,PFHXS,0.41,0.10,SSS,Precursor,Legacy Sulfonates,
+FTSA8_2,PFOS,0.26,0.32,SSS,Precursor,Legacy Sulfonates,
+FTSA8_2,PFPES,-0.06,0.81,SSS,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFHPS,0.41,0.10,SSS,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFDS,0.41,0.10,SSS,Precursor,Legacy Sulfonamides,
+FOSA,N_ETFOSAA,NA,NA,SSS,Precursor,Precursor,
+FOSA,N_MEFOSAA,NA,NA,SSS,Precursor,Precursor,
+FOSA,PFBA,0.09,0.74,SSS,Precursor,Short-chain,
+FOSA,PFBS,NA,NA,SSS,Precursor,Short-chain,
+FOSA,PFHPA,0.11,0.67,SSS,Precursor,Short-chain,
+FOSA,PFHXA,NA,NA,SSS,Precursor,Legacy Acids,
+FOSA,PFOA,0.15,0.56,SSS,Precursor,Legacy Acids,
+FOSA,PFNA,0.46,0.06,SSS,Precursor,Legacy Acids,.
+FOSA,PFDA,0.44,0.08,SSS,Precursor,Legacy Acids,.
+FOSA,PFDOA,0.53,0.03,SSS,Precursor,Legacy Acids,*
+FOSA,PFTRDA,0.48,0.05,SSS,Precursor,Legacy Acids,*
+FOSA,PFTEDA,0.51,0.04,SSS,Precursor,Legacy Acids,*
+FOSA,PFUNDA,0.46,0.06,SSS,Precursor,Legacy Sulfonates,.
+FOSA,PFHXS,0.64,0.01,SSS,Precursor,Legacy Sulfonates,**
+FOSA,PFOS,0.47,0.06,SSS,Precursor,Legacy Sulfonates,.
+FOSA,PFPES,0.34,0.18,SSS,Precursor,Legacy Sulfonamides,
+FOSA,PFHPS,0.73,0.00,SSS,Precursor,Legacy Sulfonamides,***
+FOSA,PFDS,0.46,0.06,SSS,Precursor,Legacy Sulfonamides,.
+N_ETFOSAA,N_MEFOSAA,NA,NA,SSS,Precursor,Precursor,
+N_ETFOSAA,PFBA,NA,NA,SSS,Precursor,Short-chain,
+N_ETFOSAA,PFBS,NA,NA,SSS,Precursor,Short-chain,
+N_ETFOSAA,PFHPA,NA,NA,SSS,Precursor,Short-chain,
+N_ETFOSAA,PFHXA,NA,NA,SSS,Precursor,Legacy Acids,
+N_ETFOSAA,PFOA,NA,NA,SSS,Precursor,Legacy Acids,
+N_ETFOSAA,PFNA,NA,NA,SSS,Precursor,Legacy Acids,
+N_ETFOSAA,PFDA,NA,NA,SSS,Precursor,Legacy Acids,
+N_ETFOSAA,PFDOA,NA,NA,SSS,Precursor,Legacy Acids,
+N_ETFOSAA,PFTRDA,NA,NA,SSS,Precursor,Legacy Acids,
+N_ETFOSAA,PFTEDA,NA,NA,SSS,Precursor,Legacy Acids,
+N_ETFOSAA,PFUNDA,NA,NA,SSS,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFHXS,NA,NA,SSS,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFOS,NA,NA,SSS,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFPES,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFHPS,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFDS,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFBA,NA,NA,SSS,Precursor,Short-chain,
+N_MEFOSAA,PFBS,NA,NA,SSS,Precursor,Short-chain,
+N_MEFOSAA,PFHPA,NA,NA,SSS,Precursor,Short-chain,
+N_MEFOSAA,PFHXA,NA,NA,SSS,Precursor,Legacy Acids,
+N_MEFOSAA,PFOA,NA,NA,SSS,Precursor,Legacy Acids,
+N_MEFOSAA,PFNA,NA,NA,SSS,Precursor,Legacy Acids,
+N_MEFOSAA,PFDA,NA,NA,SSS,Precursor,Legacy Acids,
+N_MEFOSAA,PFDOA,NA,NA,SSS,Precursor,Legacy Acids,
+N_MEFOSAA,PFTRDA,NA,NA,SSS,Precursor,Legacy Acids,
+N_MEFOSAA,PFTEDA,NA,NA,SSS,Precursor,Legacy Acids,
+N_MEFOSAA,PFUNDA,NA,NA,SSS,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFHXS,NA,NA,SSS,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFOS,NA,NA,SSS,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFPES,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFHPS,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFDS,NA,NA,SSS,Precursor,Legacy Sulfonamides,
+PFBA,PFBS,NA,NA,SSS,Short-chain,Short-chain,
+PFBA,PFHPA,0.59,0.01,SSS,Short-chain,Short-chain,*
+PFBA,PFHXA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFBA,PFOA,-0.15,0.57,SSS,Short-chain,Legacy Acids,
+PFBA,PFNA,-0.17,0.51,SSS,Short-chain,Legacy Acids,
+PFBA,PFDA,-0.11,0.67,SSS,Short-chain,Legacy Acids,
+PFBA,PFDOA,-0.17,0.52,SSS,Short-chain,Legacy Acids,
+PFBA,PFTRDA,-0.07,0.80,SSS,Short-chain,Legacy Acids,
+PFBA,PFTEDA,0.07,0.79,SSS,Short-chain,Legacy Acids,
+PFBA,PFUNDA,-0.11,0.67,SSS,Short-chain,Legacy Sulfonates,
+PFBA,PFHXS,0.08,0.76,SSS,Short-chain,Legacy Sulfonates,
+PFBA,PFOS,0.31,0.22,SSS,Short-chain,Legacy Sulfonates,
+PFBA,PFPES,-0.36,0.16,SSS,Short-chain,Legacy Sulfonamides,
+PFBA,PFHPS,0.16,0.54,SSS,Short-chain,Legacy Sulfonamides,
+PFBA,PFDS,0.29,0.25,SSS,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPA,NA,NA,SSS,Short-chain,Short-chain,
+PFBS,PFHXA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFBS,PFOA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFBS,PFNA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFBS,PFDA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFBS,PFDOA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFBS,PFTRDA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFBS,PFTEDA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFBS,PFUNDA,NA,NA,SSS,Short-chain,Legacy Sulfonates,
+PFBS,PFHXS,NA,NA,SSS,Short-chain,Legacy Sulfonates,
+PFBS,PFOS,NA,NA,SSS,Short-chain,Legacy Sulfonates,
+PFBS,PFPES,NA,NA,SSS,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPS,NA,NA,SSS,Short-chain,Legacy Sulfonamides,
+PFBS,PFDS,NA,NA,SSS,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHXA,NA,NA,SSS,Short-chain,Legacy Acids,
+PFHPA,PFOA,0.13,0.63,SSS,Short-chain,Legacy Acids,
+PFHPA,PFNA,-0.06,0.83,SSS,Short-chain,Legacy Acids,
+PFHPA,PFDA,-0.05,0.84,SSS,Short-chain,Legacy Acids,
+PFHPA,PFDOA,0.02,0.94,SSS,Short-chain,Legacy Acids,
+PFHPA,PFTRDA,0.04,0.88,SSS,Short-chain,Legacy Acids,
+PFHPA,PFTEDA,0.13,0.61,SSS,Short-chain,Legacy Acids,
+PFHPA,PFUNDA,-0.03,0.92,SSS,Short-chain,Legacy Sulfonates,
+PFHPA,PFHXS,0.38,0.13,SSS,Short-chain,Legacy Sulfonates,
+PFHPA,PFOS,0.21,0.41,SSS,Short-chain,Legacy Sulfonates,
+PFHPA,PFPES,-0.12,0.66,SSS,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHPS,0.35,0.17,SSS,Short-chain,Legacy Sulfonamides,
+PFHPA,PFDS,0.30,0.24,SSS,Short-chain,Legacy Sulfonamides,
+PFHXA,PFOA,NA,NA,SSS,Legacy Acids,Legacy Acids,
+PFHXA,PFNA,NA,NA,SSS,Legacy Acids,Legacy Acids,
+PFHXA,PFDA,NA,NA,SSS,Legacy Acids,Legacy Acids,
+PFHXA,PFDOA,NA,NA,SSS,Legacy Acids,Legacy Acids,
+PFHXA,PFTRDA,NA,NA,SSS,Legacy Acids,Legacy Acids,
+PFHXA,PFTEDA,NA,NA,SSS,Legacy Acids,Legacy Acids,
+PFHXA,PFUNDA,NA,NA,SSS,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFHXS,NA,NA,SSS,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFOS,NA,NA,SSS,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFPES,NA,NA,SSS,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFHPS,NA,NA,SSS,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFDS,NA,NA,SSS,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFNA,0.76,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFOA,PFDA,0.66,0.01,SSS,Legacy Acids,Legacy Acids,**
+PFOA,PFDOA,0.66,0.00,SSS,Legacy Acids,Legacy Acids,**
+PFOA,PFTRDA,0.62,0.01,SSS,Legacy Acids,Legacy Acids,**
+PFOA,PFTEDA,0.58,0.01,SSS,Legacy Acids,Legacy Acids,*
+PFOA,PFUNDA,0.69,0.00,SSS,Legacy Acids,Legacy Sulfonates,**
+PFOA,PFHXS,0.54,0.03,SSS,Legacy Acids,Legacy Sulfonates,*
+PFOA,PFOS,0.32,0.21,SSS,Legacy Acids,Legacy Sulfonates,
+PFOA,PFPES,-0.10,0.70,SSS,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFHPS,0.41,0.10,SSS,Legacy Acids,Legacy Sulfonamides,.
+PFOA,PFDS,-0.20,0.45,SSS,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFDA,0.97,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFNA,PFDOA,0.91,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFNA,PFTRDA,0.88,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFNA,PFTEDA,0.88,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFNA,PFUNDA,0.98,0.00,SSS,Legacy Acids,Legacy Sulfonates,***
+PFNA,PFHXS,0.69,0.00,SSS,Legacy Acids,Legacy Sulfonates,**
+PFNA,PFOS,0.66,0.00,SSS,Legacy Acids,Legacy Sulfonates,**
+PFNA,PFPES,0.31,0.23,SSS,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFHPS,0.59,0.01,SSS,Legacy Acids,Legacy Sulfonamides,*
+PFNA,PFDS,0.22,0.40,SSS,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDOA,0.93,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFDA,PFTRDA,0.91,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFDA,PFTEDA,0.92,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFDA,PFUNDA,0.99,0.00,SSS,Legacy Acids,Legacy Sulfonates,***
+PFDA,PFHXS,0.67,0.00,SSS,Legacy Acids,Legacy Sulfonates,**
+PFDA,PFOS,0.71,0.00,SSS,Legacy Acids,Legacy Sulfonates,**
+PFDA,PFPES,0.31,0.23,SSS,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFHPS,0.53,0.03,SSS,Legacy Acids,Legacy Sulfonamides,*
+PFDA,PFDS,0.34,0.18,SSS,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFTRDA,0.95,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFDOA,PFTEDA,0.90,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFDOA,PFUNDA,0.93,0.00,SSS,Legacy Acids,Legacy Sulfonates,***
+PFDOA,PFHXS,0.72,0.00,SSS,Legacy Acids,Legacy Sulfonates,**
+PFDOA,PFOS,0.60,0.01,SSS,Legacy Acids,Legacy Sulfonates,*
+PFDOA,PFPES,0.36,0.16,SSS,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFHPS,0.56,0.02,SSS,Legacy Acids,Legacy Sulfonamides,*
+PFDOA,PFDS,0.34,0.18,SSS,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFTEDA,0.90,0.00,SSS,Legacy Acids,Legacy Acids,***
+PFTRDA,PFUNDA,0.91,0.00,SSS,Legacy Acids,Legacy Sulfonates,***
+PFTRDA,PFHXS,0.58,0.02,SSS,Legacy Acids,Legacy Sulfonates,*
+PFTRDA,PFOS,0.56,0.02,SSS,Legacy Acids,Legacy Sulfonates,*
+PFTRDA,PFPES,0.31,0.23,SSS,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFHPS,0.45,0.07,SSS,Legacy Acids,Legacy Sulfonamides,.
+PFTRDA,PFDS,0.27,0.30,SSS,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFUNDA,0.90,0.00,SSS,Legacy Acids,Legacy Sulfonates,***
+PFTEDA,PFHXS,0.75,0.00,SSS,Legacy Acids,Legacy Sulfonates,***
+PFTEDA,PFOS,0.77,0.00,SSS,Legacy Acids,Legacy Sulfonates,***
+PFTEDA,PFPES,0.31,0.23,SSS,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFHPS,0.60,0.01,SSS,Legacy Acids,Legacy Sulfonamides,*
+PFTEDA,PFDS,0.48,0.05,SSS,Legacy Acids,Legacy Sulfonamides,.
+PFUNDA,PFHXS,0.70,0.00,SSS,Legacy Sulfonates,Legacy Sulfonates,**
+PFUNDA,PFOS,0.70,0.00,SSS,Legacy Sulfonates,Legacy Sulfonates,**
+PFUNDA,PFPES,0.31,0.23,SSS,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFHPS,0.57,0.02,SSS,Legacy Sulfonates,Legacy Sulfonamides,*
+PFUNDA,PFDS,0.32,0.22,SSS,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFOS,0.80,0.00,SSS,Legacy Sulfonates,Legacy Sulfonates,***
+PFHXS,PFPES,0.31,0.23,SSS,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFHPS,0.91,0.00,SSS,Legacy Sulfonates,Legacy Sulfonamides,***
+PFHXS,PFDS,0.56,0.02,SSS,Legacy Sulfonates,Legacy Sulfonamides,*
+PFOS,PFPES,0.20,0.43,SSS,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFHPS,0.78,0.00,SSS,Legacy Sulfonates,Legacy Sulfonamides,***
+PFOS,PFDS,0.62,0.01,SSS,Legacy Sulfonates,Legacy Sulfonamides,**
+PFPES,PFHPS,0.31,0.23,SSS,Legacy Sulfonamides,Legacy Sulfonamides,
+PFPES,PFDS,0.36,0.16,SSS,Legacy Sulfonamides,Legacy Sulfonamides,
+PFHPS,PFDS,0.44,0.07,SSS,Legacy Sulfonamides,Legacy Sulfonamides,.
+FTSA6_2,FTSA8_2,NA,NA,LWR,Precursor,Precursor,
+FTSA6_2,FOSA,NA,NA,LWR,Precursor,Precursor,
+FTSA6_2,N_ETFOSAA,NA,NA,LWR,Precursor,Precursor,
+FTSA6_2,N_MEFOSAA,NA,NA,LWR,Precursor,Precursor,
+FTSA6_2,PFBA,NA,NA,LWR,Precursor,Short-chain,
+FTSA6_2,PFBS,NA,NA,LWR,Precursor,Short-chain,
+FTSA6_2,PFHPA,NA,NA,LWR,Precursor,Short-chain,
+FTSA6_2,PFHXA,NA,NA,LWR,Precursor,Legacy Acids,
+FTSA6_2,PFOA,NA,NA,LWR,Precursor,Legacy Acids,
+FTSA6_2,PFNA,NA,NA,LWR,Precursor,Legacy Acids,
+FTSA6_2,PFDA,NA,NA,LWR,Precursor,Legacy Acids,
+FTSA6_2,PFDOA,NA,NA,LWR,Precursor,Legacy Acids,
+FTSA6_2,PFTRDA,NA,NA,LWR,Precursor,Legacy Acids,
+FTSA6_2,PFTEDA,NA,NA,LWR,Precursor,Legacy Acids,
+FTSA6_2,PFUNDA,NA,NA,LWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFHXS,NA,NA,LWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFOS,NA,NA,LWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFPES,NA,NA,LWR,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFHPS,NA,NA,LWR,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFDS,NA,NA,LWR,Precursor,Legacy Sulfonamides,
+FTSA8_2,FOSA,0.66,0.00,LWR,Precursor,Precursor,**
+FTSA8_2,N_ETFOSAA,0.63,0.00,LWR,Precursor,Precursor,**
+FTSA8_2,N_MEFOSAA,0.10,0.67,LWR,Precursor,Precursor,
+FTSA8_2,PFBA,-0.05,0.82,LWR,Precursor,Short-chain,
+FTSA8_2,PFBS,NA,NA,LWR,Precursor,Short-chain,
+FTSA8_2,PFHPA,NA,NA,LWR,Precursor,Short-chain,
+FTSA8_2,PFHXA,0.44,0.05,LWR,Precursor,Legacy Acids,*
+FTSA8_2,PFOA,0.05,0.83,LWR,Precursor,Legacy Acids,
+FTSA8_2,PFNA,-0.25,0.28,LWR,Precursor,Legacy Acids,
+FTSA8_2,PFDA,0.80,0.00,LWR,Precursor,Legacy Acids,***
+FTSA8_2,PFDOA,0.73,0.00,LWR,Precursor,Legacy Acids,***
+FTSA8_2,PFTRDA,0.64,0.00,LWR,Precursor,Legacy Acids,**
+FTSA8_2,PFTEDA,0.61,0.00,LWR,Precursor,Legacy Acids,**
+FTSA8_2,PFUNDA,0.78,0.00,LWR,Precursor,Legacy Sulfonates,***
+FTSA8_2,PFHXS,0.35,0.12,LWR,Precursor,Legacy Sulfonates,
+FTSA8_2,PFOS,0.77,0.00,LWR,Precursor,Legacy Sulfonates,***
+FTSA8_2,PFPES,NA,NA,LWR,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFHPS,0.63,0.00,LWR,Precursor,Legacy Sulfonamides,**
+FTSA8_2,PFDS,0.50,0.02,LWR,Precursor,Legacy Sulfonamides,*
+FOSA,N_ETFOSAA,0.83,0.00,LWR,Precursor,Precursor,***
+FOSA,N_MEFOSAA,0.26,0.25,LWR,Precursor,Precursor,
+FOSA,PFBA,0.20,0.37,LWR,Precursor,Short-chain,
+FOSA,PFBS,NA,NA,LWR,Precursor,Short-chain,
+FOSA,PFHPA,NA,NA,LWR,Precursor,Short-chain,
+FOSA,PFHXA,0.63,0.00,LWR,Precursor,Legacy Acids,**
+FOSA,PFOA,0.56,0.01,LWR,Precursor,Legacy Acids,**
+FOSA,PFNA,-0.07,0.75,LWR,Precursor,Legacy Acids,
+FOSA,PFDA,0.76,0.00,LWR,Precursor,Legacy Acids,***
+FOSA,PFDOA,0.77,0.00,LWR,Precursor,Legacy Acids,***
+FOSA,PFTRDA,0.52,0.02,LWR,Precursor,Legacy Acids,*
+FOSA,PFTEDA,0.57,0.01,LWR,Precursor,Legacy Acids,**
+FOSA,PFUNDA,0.63,0.00,LWR,Precursor,Legacy Sulfonates,**
+FOSA,PFHXS,0.51,0.02,LWR,Precursor,Legacy Sulfonates,*
+FOSA,PFOS,0.79,0.00,LWR,Precursor,Legacy Sulfonates,***
+FOSA,PFPES,NA,NA,LWR,Precursor,Legacy Sulfonamides,
+FOSA,PFHPS,0.81,0.00,LWR,Precursor,Legacy Sulfonamides,***
+FOSA,PFDS,0.34,0.13,LWR,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,N_MEFOSAA,0.43,0.05,LWR,Precursor,Precursor,.
+N_ETFOSAA,PFBA,0.22,0.33,LWR,Precursor,Short-chain,
+N_ETFOSAA,PFBS,NA,NA,LWR,Precursor,Short-chain,
+N_ETFOSAA,PFHPA,NA,NA,LWR,Precursor,Short-chain,
+N_ETFOSAA,PFHXA,0.62,0.00,LWR,Precursor,Legacy Acids,**
+N_ETFOSAA,PFOA,0.58,0.01,LWR,Precursor,Legacy Acids,**
+N_ETFOSAA,PFNA,-0.02,0.92,LWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFDA,0.83,0.00,LWR,Precursor,Legacy Acids,***
+N_ETFOSAA,PFDOA,0.86,0.00,LWR,Precursor,Legacy Acids,***
+N_ETFOSAA,PFTRDA,0.55,0.01,LWR,Precursor,Legacy Acids,*
+N_ETFOSAA,PFTEDA,0.73,0.00,LWR,Precursor,Legacy Acids,***
+N_ETFOSAA,PFUNDA,0.68,0.00,LWR,Precursor,Legacy Sulfonates,***
+N_ETFOSAA,PFHXS,0.59,0.01,LWR,Precursor,Legacy Sulfonates,**
+N_ETFOSAA,PFOS,0.85,0.00,LWR,Precursor,Legacy Sulfonates,***
+N_ETFOSAA,PFPES,NA,NA,LWR,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFHPS,0.83,0.00,LWR,Precursor,Legacy Sulfonamides,***
+N_ETFOSAA,PFDS,0.52,0.02,LWR,Precursor,Legacy Sulfonamides,*
+N_MEFOSAA,PFBA,0.46,0.03,LWR,Precursor,Short-chain,*
+N_MEFOSAA,PFBS,NA,NA,LWR,Precursor,Short-chain,
+N_MEFOSAA,PFHPA,NA,NA,LWR,Precursor,Short-chain,
+N_MEFOSAA,PFHXA,0.47,0.03,LWR,Precursor,Legacy Acids,*
+N_MEFOSAA,PFOA,0.26,0.26,LWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFNA,-0.15,0.51,LWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFDA,0.21,0.37,LWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFDOA,0.30,0.19,LWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFTRDA,0.11,0.65,LWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFTEDA,0.26,0.25,LWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFUNDA,0.09,0.70,LWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFHXS,-0.08,0.74,LWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFOS,0.09,0.70,LWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFPES,NA,NA,LWR,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFHPS,0.10,0.66,LWR,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFDS,0.34,0.13,LWR,Precursor,Legacy Sulfonamides,
+PFBA,PFBS,NA,NA,LWR,Short-chain,Short-chain,
+PFBA,PFHPA,NA,NA,LWR,Short-chain,Short-chain,
+PFBA,PFHXA,0.57,0.01,LWR,Short-chain,Legacy Acids,**
+PFBA,PFOA,0.38,0.09,LWR,Short-chain,Legacy Acids,.
+PFBA,PFNA,0.21,0.36,LWR,Short-chain,Legacy Acids,
+PFBA,PFDA,0.06,0.80,LWR,Short-chain,Legacy Acids,
+PFBA,PFDOA,0.11,0.64,LWR,Short-chain,Legacy Acids,
+PFBA,PFTRDA,-0.07,0.76,LWR,Short-chain,Legacy Acids,
+PFBA,PFTEDA,0.02,0.92,LWR,Short-chain,Legacy Acids,
+PFBA,PFUNDA,-0.10,0.68,LWR,Short-chain,Legacy Sulfonates,
+PFBA,PFHXS,0.19,0.40,LWR,Short-chain,Legacy Sulfonates,
+PFBA,PFOS,0.18,0.44,LWR,Short-chain,Legacy Sulfonates,
+PFBA,PFPES,NA,NA,LWR,Short-chain,Legacy Sulfonamides,
+PFBA,PFHPS,0.27,0.23,LWR,Short-chain,Legacy Sulfonamides,
+PFBA,PFDS,0.13,0.58,LWR,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPA,NA,NA,LWR,Short-chain,Short-chain,
+PFBS,PFHXA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFBS,PFOA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFBS,PFNA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFBS,PFDA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFBS,PFDOA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFBS,PFTRDA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFBS,PFTEDA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFBS,PFUNDA,NA,NA,LWR,Short-chain,Legacy Sulfonates,
+PFBS,PFHXS,NA,NA,LWR,Short-chain,Legacy Sulfonates,
+PFBS,PFOS,NA,NA,LWR,Short-chain,Legacy Sulfonates,
+PFBS,PFPES,NA,NA,LWR,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPS,NA,NA,LWR,Short-chain,Legacy Sulfonamides,
+PFBS,PFDS,NA,NA,LWR,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHXA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFHPA,PFOA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFHPA,PFNA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFHPA,PFDA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFHPA,PFDOA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFHPA,PFTRDA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFHPA,PFTEDA,NA,NA,LWR,Short-chain,Legacy Acids,
+PFHPA,PFUNDA,NA,NA,LWR,Short-chain,Legacy Sulfonates,
+PFHPA,PFHXS,NA,NA,LWR,Short-chain,Legacy Sulfonates,
+PFHPA,PFOS,NA,NA,LWR,Short-chain,Legacy Sulfonates,
+PFHPA,PFPES,NA,NA,LWR,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHPS,NA,NA,LWR,Short-chain,Legacy Sulfonamides,
+PFHPA,PFDS,NA,NA,LWR,Short-chain,Legacy Sulfonamides,
+PFHXA,PFOA,0.27,0.23,LWR,Legacy Acids,Legacy Acids,
+PFHXA,PFNA,-0.20,0.38,LWR,Legacy Acids,Legacy Acids,
+PFHXA,PFDA,0.44,0.04,LWR,Legacy Acids,Legacy Acids,*
+PFHXA,PFDOA,0.52,0.01,LWR,Legacy Acids,Legacy Acids,*
+PFHXA,PFTRDA,0.38,0.09,LWR,Legacy Acids,Legacy Acids,.
+PFHXA,PFTEDA,0.38,0.09,LWR,Legacy Acids,Legacy Acids,.
+PFHXA,PFUNDA,0.42,0.06,LWR,Legacy Acids,Legacy Sulfonates,.
+PFHXA,PFHXS,0.37,0.10,LWR,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFOS,0.53,0.01,LWR,Legacy Acids,Legacy Sulfonates,*
+PFHXA,PFPES,NA,NA,LWR,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFHPS,0.56,0.01,LWR,Legacy Acids,Legacy Sulfonamides,**
+PFHXA,PFDS,0.31,0.18,LWR,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFNA,0.07,0.78,LWR,Legacy Acids,Legacy Acids,
+PFOA,PFDA,0.26,0.26,LWR,Legacy Acids,Legacy Acids,
+PFOA,PFDOA,0.36,0.11,LWR,Legacy Acids,Legacy Acids,
+PFOA,PFTRDA,0.03,0.89,LWR,Legacy Acids,Legacy Acids,
+PFOA,PFTEDA,0.17,0.45,LWR,Legacy Acids,Legacy Acids,
+PFOA,PFUNDA,0.06,0.81,LWR,Legacy Acids,Legacy Sulfonates,
+PFOA,PFHXS,0.43,0.05,LWR,Legacy Acids,Legacy Sulfonates,.
+PFOA,PFOS,0.44,0.05,LWR,Legacy Acids,Legacy Sulfonates,*
+PFOA,PFPES,NA,NA,LWR,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFHPS,0.50,0.02,LWR,Legacy Acids,Legacy Sulfonamides,*
+PFOA,PFDS,0.01,0.98,LWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFDA,0.19,0.40,LWR,Legacy Acids,Legacy Acids,
+PFNA,PFDOA,0.03,0.89,LWR,Legacy Acids,Legacy Acids,
+PFNA,PFTRDA,0.07,0.77,LWR,Legacy Acids,Legacy Acids,
+PFNA,PFTEDA,0.05,0.84,LWR,Legacy Acids,Legacy Acids,
+PFNA,PFUNDA,0.16,0.47,LWR,Legacy Acids,Legacy Sulfonates,
+PFNA,PFHXS,0.14,0.55,LWR,Legacy Acids,Legacy Sulfonates,
+PFNA,PFOS,0.10,0.65,LWR,Legacy Acids,Legacy Sulfonates,
+PFNA,PFPES,NA,NA,LWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFHPS,0.18,0.45,LWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFDS,-0.29,0.21,LWR,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDOA,0.92,0.00,LWR,Legacy Acids,Legacy Acids,***
+PFDA,PFTRDA,0.78,0.00,LWR,Legacy Acids,Legacy Acids,***
+PFDA,PFTEDA,0.80,0.00,LWR,Legacy Acids,Legacy Acids,***
+PFDA,PFUNDA,0.93,0.00,LWR,Legacy Acids,Legacy Sulfonates,***
+PFDA,PFHXS,0.43,0.05,LWR,Legacy Acids,Legacy Sulfonates,.
+PFDA,PFOS,0.88,0.00,LWR,Legacy Acids,Legacy Sulfonates,***
+PFDA,PFPES,NA,NA,LWR,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFHPS,0.79,0.00,LWR,Legacy Acids,Legacy Sulfonamides,***
+PFDA,PFDS,0.47,0.03,LWR,Legacy Acids,Legacy Sulfonamides,*
+PFDOA,PFTRDA,0.84,0.00,LWR,Legacy Acids,Legacy Acids,***
+PFDOA,PFTEDA,0.90,0.00,LWR,Legacy Acids,Legacy Acids,***
+PFDOA,PFUNDA,0.88,0.00,LWR,Legacy Acids,Legacy Sulfonates,***
+PFDOA,PFHXS,0.49,0.03,LWR,Legacy Acids,Legacy Sulfonates,*
+PFDOA,PFOS,0.89,0.00,LWR,Legacy Acids,Legacy Sulfonates,***
+PFDOA,PFPES,NA,NA,LWR,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFHPS,0.81,0.00,LWR,Legacy Acids,Legacy Sulfonamides,***
+PFDOA,PFDS,0.56,0.01,LWR,Legacy Acids,Legacy Sulfonamides,**
+PFTRDA,PFTEDA,0.84,0.00,LWR,Legacy Acids,Legacy Acids,***
+PFTRDA,PFUNDA,0.88,0.00,LWR,Legacy Acids,Legacy Sulfonates,***
+PFTRDA,PFHXS,0.36,0.11,LWR,Legacy Acids,Legacy Sulfonates,
+PFTRDA,PFOS,0.70,0.00,LWR,Legacy Acids,Legacy Sulfonates,***
+PFTRDA,PFPES,NA,NA,LWR,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFHPS,0.62,0.00,LWR,Legacy Acids,Legacy Sulfonamides,**
+PFTRDA,PFDS,0.48,0.03,LWR,Legacy Acids,Legacy Sulfonamides,*
+PFTEDA,PFUNDA,0.80,0.00,LWR,Legacy Acids,Legacy Sulfonates,***
+PFTEDA,PFHXS,0.48,0.03,LWR,Legacy Acids,Legacy Sulfonates,*
+PFTEDA,PFOS,0.75,0.00,LWR,Legacy Acids,Legacy Sulfonates,***
+PFTEDA,PFPES,NA,NA,LWR,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFHPS,0.71,0.00,LWR,Legacy Acids,Legacy Sulfonamides,***
+PFTEDA,PFDS,0.68,0.00,LWR,Legacy Acids,Legacy Sulfonamides,**
+PFUNDA,PFHXS,0.32,0.15,LWR,Legacy Sulfonates,Legacy Sulfonates,
+PFUNDA,PFOS,0.81,0.00,LWR,Legacy Sulfonates,Legacy Sulfonates,***
+PFUNDA,PFPES,NA,NA,LWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFHPS,0.68,0.00,LWR,Legacy Sulfonates,Legacy Sulfonamides,***
+PFUNDA,PFDS,0.39,0.08,LWR,Legacy Sulfonates,Legacy Sulfonamides,.
+PFHXS,PFOS,0.68,0.00,LWR,Legacy Sulfonates,Legacy Sulfonates,***
+PFHXS,PFPES,NA,NA,LWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFHPS,0.82,0.00,LWR,Legacy Sulfonates,Legacy Sulfonamides,***
+PFHXS,PFDS,0.33,0.14,LWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFPES,NA,NA,LWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFHPS,0.94,0.00,LWR,Legacy Sulfonates,Legacy Sulfonamides,***
+PFOS,PFDS,0.48,0.03,LWR,Legacy Sulfonates,Legacy Sulfonamides,*
+PFPES,PFHPS,NA,NA,LWR,Legacy Sulfonamides,Legacy Sulfonamides,
+PFPES,PFDS,NA,NA,LWR,Legacy Sulfonamides,Legacy Sulfonamides,
+PFHPS,PFDS,0.48,0.03,LWR,Legacy Sulfonamides,Legacy Sulfonamides,*
+FTSA6_2,FTSA8_2,NA,NA,AIS,Precursor,Precursor,
+FTSA6_2,FOSA,NA,NA,AIS,Precursor,Precursor,
+FTSA6_2,N_ETFOSAA,NA,NA,AIS,Precursor,Precursor,
+FTSA6_2,N_MEFOSAA,NA,NA,AIS,Precursor,Precursor,
+FTSA6_2,PFBA,NA,NA,AIS,Precursor,Short-chain,
+FTSA6_2,PFBS,NA,NA,AIS,Precursor,Short-chain,
+FTSA6_2,PFHPA,NA,NA,AIS,Precursor,Short-chain,
+FTSA6_2,PFHXA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA6_2,PFOA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA6_2,PFNA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA6_2,PFDA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA6_2,PFDOA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA6_2,PFTRDA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA6_2,PFTEDA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA6_2,PFUNDA,NA,NA,AIS,Precursor,Legacy Sulfonates,
+FTSA6_2,PFHXS,NA,NA,AIS,Precursor,Legacy Sulfonates,
+FTSA6_2,PFOS,NA,NA,AIS,Precursor,Legacy Sulfonates,
+FTSA6_2,PFPES,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFHPS,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFDS,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+FTSA8_2,FOSA,NA,NA,AIS,Precursor,Precursor,
+FTSA8_2,N_ETFOSAA,NA,NA,AIS,Precursor,Precursor,
+FTSA8_2,N_MEFOSAA,NA,NA,AIS,Precursor,Precursor,
+FTSA8_2,PFBA,NA,NA,AIS,Precursor,Short-chain,
+FTSA8_2,PFBS,NA,NA,AIS,Precursor,Short-chain,
+FTSA8_2,PFHPA,NA,NA,AIS,Precursor,Short-chain,
+FTSA8_2,PFHXA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA8_2,PFOA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA8_2,PFNA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA8_2,PFDA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA8_2,PFDOA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA8_2,PFTRDA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA8_2,PFTEDA,NA,NA,AIS,Precursor,Legacy Acids,
+FTSA8_2,PFUNDA,NA,NA,AIS,Precursor,Legacy Sulfonates,
+FTSA8_2,PFHXS,NA,NA,AIS,Precursor,Legacy Sulfonates,
+FTSA8_2,PFOS,NA,NA,AIS,Precursor,Legacy Sulfonates,
+FTSA8_2,PFPES,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFHPS,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFDS,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+FOSA,N_ETFOSAA,NA,NA,AIS,Precursor,Precursor,
+FOSA,N_MEFOSAA,NA,NA,AIS,Precursor,Precursor,
+FOSA,PFBA,0.02,0.95,AIS,Precursor,Short-chain,
+FOSA,PFBS,0.06,0.82,AIS,Precursor,Short-chain,
+FOSA,PFHPA,0.02,0.94,AIS,Precursor,Short-chain,
+FOSA,PFHXA,NA,NA,AIS,Precursor,Legacy Acids,
+FOSA,PFOA,-0.03,0.92,AIS,Precursor,Legacy Acids,
+FOSA,PFNA,-0.02,0.93,AIS,Precursor,Legacy Acids,
+FOSA,PFDA,-0.20,0.47,AIS,Precursor,Legacy Acids,
+FOSA,PFDOA,-0.18,0.51,AIS,Precursor,Legacy Acids,
+FOSA,PFTRDA,0.00,0.99,AIS,Precursor,Legacy Acids,
+FOSA,PFTEDA,-0.42,0.12,AIS,Precursor,Legacy Acids,
+FOSA,PFUNDA,-0.14,0.62,AIS,Precursor,Legacy Sulfonates,
+FOSA,PFHXS,-0.08,0.76,AIS,Precursor,Legacy Sulfonates,
+FOSA,PFOS,-0.25,0.37,AIS,Precursor,Legacy Sulfonates,
+FOSA,PFPES,0.32,0.25,AIS,Precursor,Legacy Sulfonamides,
+FOSA,PFHPS,-0.23,0.42,AIS,Precursor,Legacy Sulfonamides,
+FOSA,PFDS,0.01,0.97,AIS,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,N_MEFOSAA,NA,NA,AIS,Precursor,Precursor,
+N_ETFOSAA,PFBA,NA,NA,AIS,Precursor,Short-chain,
+N_ETFOSAA,PFBS,NA,NA,AIS,Precursor,Short-chain,
+N_ETFOSAA,PFHPA,NA,NA,AIS,Precursor,Short-chain,
+N_ETFOSAA,PFHXA,NA,NA,AIS,Precursor,Legacy Acids,
+N_ETFOSAA,PFOA,NA,NA,AIS,Precursor,Legacy Acids,
+N_ETFOSAA,PFNA,NA,NA,AIS,Precursor,Legacy Acids,
+N_ETFOSAA,PFDA,NA,NA,AIS,Precursor,Legacy Acids,
+N_ETFOSAA,PFDOA,NA,NA,AIS,Precursor,Legacy Acids,
+N_ETFOSAA,PFTRDA,NA,NA,AIS,Precursor,Legacy Acids,
+N_ETFOSAA,PFTEDA,NA,NA,AIS,Precursor,Legacy Acids,
+N_ETFOSAA,PFUNDA,NA,NA,AIS,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFHXS,NA,NA,AIS,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFOS,NA,NA,AIS,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFPES,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFHPS,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFDS,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFBA,NA,NA,AIS,Precursor,Short-chain,
+N_MEFOSAA,PFBS,NA,NA,AIS,Precursor,Short-chain,
+N_MEFOSAA,PFHPA,NA,NA,AIS,Precursor,Short-chain,
+N_MEFOSAA,PFHXA,NA,NA,AIS,Precursor,Legacy Acids,
+N_MEFOSAA,PFOA,NA,NA,AIS,Precursor,Legacy Acids,
+N_MEFOSAA,PFNA,NA,NA,AIS,Precursor,Legacy Acids,
+N_MEFOSAA,PFDA,NA,NA,AIS,Precursor,Legacy Acids,
+N_MEFOSAA,PFDOA,NA,NA,AIS,Precursor,Legacy Acids,
+N_MEFOSAA,PFTRDA,NA,NA,AIS,Precursor,Legacy Acids,
+N_MEFOSAA,PFTEDA,NA,NA,AIS,Precursor,Legacy Acids,
+N_MEFOSAA,PFUNDA,NA,NA,AIS,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFHXS,NA,NA,AIS,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFOS,NA,NA,AIS,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFPES,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFHPS,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFDS,NA,NA,AIS,Precursor,Legacy Sulfonamides,
+PFBA,PFBS,0.43,0.11,AIS,Short-chain,Short-chain,
+PFBA,PFHPA,0.70,0.00,AIS,Short-chain,Short-chain,**
+PFBA,PFHXA,NA,NA,AIS,Short-chain,Legacy Acids,
+PFBA,PFOA,0.56,0.03,AIS,Short-chain,Legacy Acids,*
+PFBA,PFNA,0.78,0.00,AIS,Short-chain,Legacy Acids,***
+PFBA,PFDA,0.74,0.00,AIS,Short-chain,Legacy Acids,**
+PFBA,PFDOA,0.79,0.00,AIS,Short-chain,Legacy Acids,***
+PFBA,PFTRDA,0.79,0.00,AIS,Short-chain,Legacy Acids,***
+PFBA,PFTEDA,0.73,0.00,AIS,Short-chain,Legacy Acids,**
+PFBA,PFUNDA,0.83,0.00,AIS,Short-chain,Legacy Sulfonates,***
+PFBA,PFHXS,0.83,0.00,AIS,Short-chain,Legacy Sulfonates,***
+PFBA,PFOS,0.79,0.00,AIS,Short-chain,Legacy Sulfonates,***
+PFBA,PFPES,0.34,0.21,AIS,Short-chain,Legacy Sulfonamides,
+PFBA,PFHPS,0.74,0.00,AIS,Short-chain,Legacy Sulfonamides,**
+PFBA,PFDS,0.76,0.00,AIS,Short-chain,Legacy Sulfonamides,**
+PFBS,PFHPA,0.31,0.25,AIS,Short-chain,Short-chain,
+PFBS,PFHXA,NA,NA,AIS,Short-chain,Legacy Acids,
+PFBS,PFOA,0.31,0.26,AIS,Short-chain,Legacy Acids,
+PFBS,PFNA,0.43,0.11,AIS,Short-chain,Legacy Acids,
+PFBS,PFDA,0.43,0.11,AIS,Short-chain,Legacy Acids,
+PFBS,PFDOA,0.37,0.17,AIS,Short-chain,Legacy Acids,
+PFBS,PFTRDA,0.43,0.11,AIS,Short-chain,Legacy Acids,
+PFBS,PFTEDA,0.43,0.11,AIS,Short-chain,Legacy Acids,
+PFBS,PFUNDA,0.43,0.11,AIS,Short-chain,Legacy Sulfonates,
+PFBS,PFHXS,0.25,0.37,AIS,Short-chain,Legacy Sulfonates,
+PFBS,PFOS,0.25,0.37,AIS,Short-chain,Legacy Sulfonates,
+PFBS,PFPES,-0.07,0.80,AIS,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPS,0.06,0.83,AIS,Short-chain,Legacy Sulfonamides,
+PFBS,PFDS,0.22,0.44,AIS,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHXA,NA,NA,AIS,Short-chain,Legacy Acids,
+PFHPA,PFOA,0.96,0.00,AIS,Short-chain,Legacy Acids,***
+PFHPA,PFNA,0.95,0.00,AIS,Short-chain,Legacy Acids,***
+PFHPA,PFDA,0.90,0.00,AIS,Short-chain,Legacy Acids,***
+PFHPA,PFDOA,0.88,0.00,AIS,Short-chain,Legacy Acids,***
+PFHPA,PFTRDA,0.89,0.00,AIS,Short-chain,Legacy Acids,***
+PFHPA,PFTEDA,0.74,0.00,AIS,Short-chain,Legacy Acids,**
+PFHPA,PFUNDA,0.91,0.00,AIS,Short-chain,Legacy Sulfonates,***
+PFHPA,PFHXS,0.86,0.00,AIS,Short-chain,Legacy Sulfonates,***
+PFHPA,PFOS,0.70,0.00,AIS,Short-chain,Legacy Sulfonates,**
+PFHPA,PFPES,0.44,0.10,AIS,Short-chain,Legacy Sulfonamides,.
+PFHPA,PFHPS,0.71,0.00,AIS,Short-chain,Legacy Sulfonamides,**
+PFHPA,PFDS,0.72,0.00,AIS,Short-chain,Legacy Sulfonamides,**
+PFHXA,PFOA,NA,NA,AIS,Legacy Acids,Legacy Acids,
+PFHXA,PFNA,NA,NA,AIS,Legacy Acids,Legacy Acids,
+PFHXA,PFDA,NA,NA,AIS,Legacy Acids,Legacy Acids,
+PFHXA,PFDOA,NA,NA,AIS,Legacy Acids,Legacy Acids,
+PFHXA,PFTRDA,NA,NA,AIS,Legacy Acids,Legacy Acids,
+PFHXA,PFTEDA,NA,NA,AIS,Legacy Acids,Legacy Acids,
+PFHXA,PFUNDA,NA,NA,AIS,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFHXS,NA,NA,AIS,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFOS,NA,NA,AIS,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFPES,NA,NA,AIS,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFHPS,NA,NA,AIS,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFDS,NA,NA,AIS,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFNA,0.86,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFOA,PFDA,0.82,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFOA,PFDOA,0.78,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFOA,PFTRDA,0.77,0.00,AIS,Legacy Acids,Legacy Acids,**
+PFOA,PFTEDA,0.66,0.01,AIS,Legacy Acids,Legacy Acids,**
+PFOA,PFUNDA,0.81,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFOA,PFHXS,0.79,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFOA,PFOS,0.63,0.01,AIS,Legacy Acids,Legacy Sulfonates,*
+PFOA,PFPES,0.43,0.11,AIS,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFHPS,0.65,0.01,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFOA,PFDS,0.66,0.01,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFNA,PFDA,0.96,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFNA,PFDOA,0.94,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFNA,PFTRDA,0.93,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFNA,PFTEDA,0.82,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFNA,PFUNDA,0.96,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFNA,PFHXS,0.84,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFNA,PFOS,0.74,0.00,AIS,Legacy Acids,Legacy Sulfonates,**
+PFNA,PFPES,0.31,0.26,AIS,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFHPS,0.70,0.00,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFNA,PFDS,0.70,0.00,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFDA,PFDOA,0.97,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFDA,PFTRDA,0.90,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFDA,PFTEDA,0.90,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFDA,PFUNDA,0.97,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFDA,PFHXS,0.75,0.00,AIS,Legacy Acids,Legacy Sulfonates,**
+PFDA,PFOS,0.70,0.00,AIS,Legacy Acids,Legacy Sulfonates,**
+PFDA,PFPES,0.28,0.31,AIS,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFHPS,0.63,0.01,AIS,Legacy Acids,Legacy Sulfonamides,*
+PFDA,PFDS,0.67,0.01,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFDOA,PFTRDA,0.94,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFDOA,PFTEDA,0.93,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFDOA,PFUNDA,0.99,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFDOA,PFHXS,0.79,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFDOA,PFOS,0.76,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFDOA,PFPES,0.25,0.37,AIS,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFHPS,0.72,0.00,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFDOA,PFDS,0.72,0.00,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFTRDA,PFTEDA,0.83,0.00,AIS,Legacy Acids,Legacy Acids,***
+PFTRDA,PFUNDA,0.96,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFTRDA,PFHXS,0.83,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFTRDA,PFOS,0.76,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFTRDA,PFPES,0.31,0.26,AIS,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFHPS,0.76,0.00,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFTRDA,PFDS,0.70,0.00,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFTEDA,PFUNDA,0.91,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFTEDA,PFHXS,0.69,0.01,AIS,Legacy Acids,Legacy Sulfonates,**
+PFTEDA,PFOS,0.81,0.00,AIS,Legacy Acids,Legacy Sulfonates,***
+PFTEDA,PFPES,0.06,0.83,AIS,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFHPS,0.68,0.01,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFTEDA,PFDS,0.72,0.00,AIS,Legacy Acids,Legacy Sulfonamides,**
+PFUNDA,PFHXS,0.83,0.00,AIS,Legacy Sulfonates,Legacy Sulfonates,***
+PFUNDA,PFOS,0.77,0.00,AIS,Legacy Sulfonates,Legacy Sulfonates,***
+PFUNDA,PFPES,0.31,0.26,AIS,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFHPS,0.74,0.00,AIS,Legacy Sulfonates,Legacy Sulfonamides,**
+PFUNDA,PFDS,0.74,0.00,AIS,Legacy Sulfonates,Legacy Sulfonamides,**
+PFHXS,PFOS,0.88,0.00,AIS,Legacy Sulfonates,Legacy Sulfonates,***
+PFHXS,PFPES,0.43,0.11,AIS,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFHPS,0.92,0.00,AIS,Legacy Sulfonates,Legacy Sulfonamides,***
+PFHXS,PFDS,0.81,0.00,AIS,Legacy Sulfonates,Legacy Sulfonamides,***
+PFOS,PFPES,0.15,0.58,AIS,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFHPS,0.89,0.00,AIS,Legacy Sulfonates,Legacy Sulfonamides,***
+PFOS,PFDS,0.85,0.00,AIS,Legacy Sulfonates,Legacy Sulfonamides,***
+PFPES,PFHPS,0.37,0.17,AIS,Legacy Sulfonamides,Legacy Sulfonamides,
+PFPES,PFDS,0.43,0.11,AIS,Legacy Sulfonamides,Legacy Sulfonamides,
+PFHPS,PFDS,0.77,0.00,AIS,Legacy Sulfonamides,Legacy Sulfonamides,***
+FTSA6_2,FTSA8_2,0.26,0.24,MWR,Precursor,Precursor,
+FTSA6_2,FOSA,0.32,0.13,MWR,Precursor,Precursor,
+FTSA6_2,N_ETFOSAA,0.06,0.77,MWR,Precursor,Precursor,
+FTSA6_2,N_MEFOSAA,-0.23,0.29,MWR,Precursor,Precursor,
+FTSA6_2,PFBA,0.29,0.18,MWR,Precursor,Short-chain,
+FTSA6_2,PFBS,-0.07,0.77,MWR,Precursor,Short-chain,
+FTSA6_2,PFHPA,-0.07,0.77,MWR,Precursor,Short-chain,
+FTSA6_2,PFHXA,0.32,0.13,MWR,Precursor,Legacy Acids,
+FTSA6_2,PFOA,0.20,0.37,MWR,Precursor,Legacy Acids,
+FTSA6_2,PFNA,0.06,0.77,MWR,Precursor,Legacy Acids,
+FTSA6_2,PFDA,-0.19,0.38,MWR,Precursor,Legacy Acids,
+FTSA6_2,PFDOA,0.29,0.18,MWR,Precursor,Legacy Acids,
+FTSA6_2,PFTRDA,0.26,0.24,MWR,Precursor,Legacy Acids,
+FTSA6_2,PFTEDA,0.22,0.30,MWR,Precursor,Legacy Acids,
+FTSA6_2,PFUNDA,0.13,0.56,MWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFHXS,0.13,0.56,MWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFOS,0.26,0.24,MWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFPES,-0.05,0.84,MWR,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFHPS,0.22,0.30,MWR,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFDS,0.36,0.10,MWR,Precursor,Legacy Sulfonamides,.
+FTSA8_2,FOSA,0.92,0.00,MWR,Precursor,Precursor,***
+FTSA8_2,N_ETFOSAA,0.63,0.00,MWR,Precursor,Precursor,**
+FTSA8_2,N_MEFOSAA,0.10,0.66,MWR,Precursor,Precursor,
+FTSA8_2,PFBA,0.21,0.33,MWR,Precursor,Short-chain,
+FTSA8_2,PFBS,-0.49,0.02,MWR,Precursor,Short-chain,*
+FTSA8_2,PFHPA,-0.32,0.13,MWR,Precursor,Short-chain,
+FTSA8_2,PFHXA,0.19,0.39,MWR,Precursor,Legacy Acids,
+FTSA8_2,PFOA,0.54,0.01,MWR,Precursor,Legacy Acids,**
+FTSA8_2,PFNA,-0.30,0.16,MWR,Precursor,Legacy Acids,
+FTSA8_2,PFDA,-0.23,0.29,MWR,Precursor,Legacy Acids,
+FTSA8_2,PFDOA,0.82,0.00,MWR,Precursor,Legacy Acids,***
+FTSA8_2,PFTRDA,0.60,0.00,MWR,Precursor,Legacy Acids,**
+FTSA8_2,PFTEDA,0.66,0.00,MWR,Precursor,Legacy Acids,***
+FTSA8_2,PFUNDA,0.06,0.77,MWR,Precursor,Legacy Sulfonates,
+FTSA8_2,PFHXS,0.20,0.36,MWR,Precursor,Legacy Sulfonates,
+FTSA8_2,PFOS,0.43,0.04,MWR,Precursor,Legacy Sulfonates,*
+FTSA8_2,PFPES,-0.19,0.38,MWR,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFHPS,0.41,0.05,MWR,Precursor,Legacy Sulfonamides,.
+FTSA8_2,PFDS,0.34,0.12,MWR,Precursor,Legacy Sulfonamides,
+FOSA,N_ETFOSAA,0.78,0.00,MWR,Precursor,Precursor,***
+FOSA,N_MEFOSAA,0.29,0.18,MWR,Precursor,Precursor,
+FOSA,PFBA,0.21,0.33,MWR,Precursor,Short-chain,
+FOSA,PFBS,-0.49,0.02,MWR,Precursor,Short-chain,*
+FOSA,PFHPA,-0.39,0.06,MWR,Precursor,Short-chain,.
+FOSA,PFHXA,0.27,0.21,MWR,Precursor,Legacy Acids,
+FOSA,PFOA,0.44,0.03,MWR,Precursor,Legacy Acids,*
+FOSA,PFNA,-0.29,0.18,MWR,Precursor,Legacy Acids,
+FOSA,PFDA,-0.21,0.33,MWR,Precursor,Legacy Acids,
+FOSA,PFDOA,0.91,0.00,MWR,Precursor,Legacy Acids,***
+FOSA,PFTRDA,0.81,0.00,MWR,Precursor,Legacy Acids,***
+FOSA,PFTEDA,0.84,0.00,MWR,Precursor,Legacy Acids,***
+FOSA,PFUNDA,0.14,0.53,MWR,Precursor,Legacy Sulfonates,
+FOSA,PFHXS,0.19,0.38,MWR,Precursor,Legacy Sulfonates,
+FOSA,PFOS,0.39,0.07,MWR,Precursor,Legacy Sulfonates,.
+FOSA,PFPES,-0.26,0.24,MWR,Precursor,Legacy Sulfonamides,
+FOSA,PFHPS,0.31,0.14,MWR,Precursor,Legacy Sulfonamides,
+FOSA,PFDS,0.50,0.02,MWR,Precursor,Legacy Sulfonamides,*
+N_ETFOSAA,N_MEFOSAA,0.77,0.00,MWR,Precursor,Precursor,***
+N_ETFOSAA,PFBA,0.16,0.45,MWR,Precursor,Short-chain,
+N_ETFOSAA,PFBS,-0.49,0.02,MWR,Precursor,Short-chain,*
+N_ETFOSAA,PFHPA,-0.39,0.06,MWR,Precursor,Short-chain,.
+N_ETFOSAA,PFHXA,0.17,0.44,MWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFOA,0.13,0.56,MWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFNA,-0.25,0.25,MWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFDA,0.11,0.61,MWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFDOA,0.66,0.00,MWR,Precursor,Legacy Acids,***
+N_ETFOSAA,PFTRDA,0.86,0.00,MWR,Precursor,Legacy Acids,***
+N_ETFOSAA,PFTEDA,0.90,0.00,MWR,Precursor,Legacy Acids,***
+N_ETFOSAA,PFUNDA,0.21,0.34,MWR,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFHXS,0.29,0.18,MWR,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFOS,0.47,0.02,MWR,Precursor,Legacy Sulfonates,*
+N_ETFOSAA,PFPES,-0.26,0.24,MWR,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFHPS,0.36,0.09,MWR,Precursor,Legacy Sulfonamides,.
+N_ETFOSAA,PFDS,0.57,0.01,MWR,Precursor,Legacy Sulfonamides,**
+N_MEFOSAA,PFBA,0.00,1.00,MWR,Precursor,Short-chain,
+N_MEFOSAA,PFBS,-0.34,0.12,MWR,Precursor,Short-chain,
+N_MEFOSAA,PFHPA,-0.34,0.12,MWR,Precursor,Short-chain,
+N_MEFOSAA,PFHXA,-0.05,0.82,MWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFOA,-0.29,0.19,MWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFNA,-0.15,0.50,MWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFDA,0.41,0.05,MWR,Precursor,Legacy Acids,.
+N_MEFOSAA,PFDOA,0.25,0.25,MWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFTRDA,0.58,0.00,MWR,Precursor,Legacy Acids,**
+N_MEFOSAA,PFTEDA,0.61,0.00,MWR,Precursor,Legacy Acids,**
+N_MEFOSAA,PFUNDA,0.34,0.11,MWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFHXS,0.28,0.20,MWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFOS,0.34,0.12,MWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFPES,-0.23,0.29,MWR,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFHPS,0.18,0.42,MWR,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFDS,0.48,0.02,MWR,Precursor,Legacy Sulfonamides,*
+PFBA,PFBS,-0.49,0.02,MWR,Short-chain,Short-chain,*
+PFBA,PFHPA,0.49,0.02,MWR,Short-chain,Short-chain,*
+PFBA,PFHXA,0.23,0.29,MWR,Short-chain,Legacy Acids,
+PFBA,PFOA,0.60,0.00,MWR,Short-chain,Legacy Acids,**
+PFBA,PFNA,0.19,0.37,MWR,Short-chain,Legacy Acids,
+PFBA,PFDA,0.25,0.24,MWR,Short-chain,Legacy Acids,
+PFBA,PFDOA,0.05,0.82,MWR,Short-chain,Legacy Acids,
+PFBA,PFTRDA,0.12,0.60,MWR,Short-chain,Legacy Acids,
+PFBA,PFTEDA,0.18,0.42,MWR,Short-chain,Legacy Acids,
+PFBA,PFUNDA,-0.10,0.66,MWR,Short-chain,Legacy Sulfonates,
+PFBA,PFHXS,0.42,0.05,MWR,Short-chain,Legacy Sulfonates,*
+PFBA,PFOS,0.48,0.02,MWR,Short-chain,Legacy Sulfonates,*
+PFBA,PFPES,0.35,0.10,MWR,Short-chain,Legacy Sulfonamides,.
+PFBA,PFHPS,0.62,0.00,MWR,Short-chain,Legacy Sulfonamides,**
+PFBA,PFDS,0.22,0.32,MWR,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPA,-0.10,0.67,MWR,Short-chain,Short-chain,
+PFBS,PFHXA,0.06,0.79,MWR,Short-chain,Legacy Acids,
+PFBS,PFOA,-0.38,0.08,MWR,Short-chain,Legacy Acids,.
+PFBS,PFNA,0.47,0.02,MWR,Short-chain,Legacy Acids,*
+PFBS,PFDA,-0.13,0.55,MWR,Short-chain,Legacy Acids,
+PFBS,PFDOA,-0.46,0.03,MWR,Short-chain,Legacy Acids,*
+PFBS,PFTRDA,-0.30,0.17,MWR,Short-chain,Legacy Acids,
+PFBS,PFTEDA,-0.39,0.06,MWR,Short-chain,Legacy Acids,.
+PFBS,PFUNDA,-0.08,0.70,MWR,Short-chain,Legacy Sulfonates,
+PFBS,PFHXS,-0.37,0.08,MWR,Short-chain,Legacy Sulfonates,.
+PFBS,PFOS,-0.49,0.02,MWR,Short-chain,Legacy Sulfonates,*
+PFBS,PFPES,-0.07,0.77,MWR,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPS,-0.44,0.04,MWR,Short-chain,Legacy Sulfonamides,*
+PFBS,PFDS,-0.20,0.38,MWR,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHXA,0.18,0.42,MWR,Short-chain,Legacy Acids,
+PFHPA,PFOA,0.49,0.02,MWR,Short-chain,Legacy Acids,*
+PFHPA,PFNA,0.42,0.05,MWR,Short-chain,Legacy Acids,*
+PFHPA,PFDA,0.13,0.54,MWR,Short-chain,Legacy Acids,
+PFHPA,PFDOA,-0.42,0.05,MWR,Short-chain,Legacy Acids,*
+PFHPA,PFTRDA,-0.49,0.02,MWR,Short-chain,Legacy Acids,*
+PFHPA,PFTEDA,-0.49,0.02,MWR,Short-chain,Legacy Acids,*
+PFHPA,PFUNDA,-0.31,0.15,MWR,Short-chain,Legacy Sulfonates,
+PFHPA,PFHXS,0.49,0.02,MWR,Short-chain,Legacy Sulfonates,*
+PFHPA,PFOS,0.20,0.37,MWR,Short-chain,Legacy Sulfonates,
+PFHPA,PFPES,0.72,0.00,MWR,Short-chain,Legacy Sulfonamides,***
+PFHPA,PFHPS,0.49,0.02,MWR,Short-chain,Legacy Sulfonamides,*
+PFHPA,PFDS,-0.45,0.04,MWR,Short-chain,Legacy Sulfonamides,*
+PFHXA,PFOA,0.17,0.44,MWR,Legacy Acids,Legacy Acids,
+PFHXA,PFNA,0.24,0.26,MWR,Legacy Acids,Legacy Acids,
+PFHXA,PFDA,0.06,0.78,MWR,Legacy Acids,Legacy Acids,
+PFHXA,PFDOA,0.17,0.44,MWR,Legacy Acids,Legacy Acids,
+PFHXA,PFTRDA,0.32,0.13,MWR,Legacy Acids,Legacy Acids,
+PFHXA,PFTEDA,0.32,0.13,MWR,Legacy Acids,Legacy Acids,
+PFHXA,PFUNDA,-0.01,0.96,MWR,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFHXS,0.28,0.20,MWR,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFOS,0.19,0.38,MWR,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFPES,0.35,0.10,MWR,Legacy Acids,Legacy Sulfonamides,.
+PFHXA,PFHPS,0.34,0.11,MWR,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFDS,0.19,0.39,MWR,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFNA,0.20,0.36,MWR,Legacy Acids,Legacy Acids,
+PFOA,PFDA,-0.13,0.54,MWR,Legacy Acids,Legacy Acids,
+PFOA,PFDOA,0.34,0.12,MWR,Legacy Acids,Legacy Acids,
+PFOA,PFTRDA,0.06,0.80,MWR,Legacy Acids,Legacy Acids,
+PFOA,PFTEDA,0.07,0.74,MWR,Legacy Acids,Legacy Acids,
+PFOA,PFUNDA,-0.13,0.56,MWR,Legacy Acids,Legacy Sulfonates,
+PFOA,PFHXS,0.49,0.02,MWR,Legacy Acids,Legacy Sulfonates,*
+PFOA,PFOS,0.42,0.05,MWR,Legacy Acids,Legacy Sulfonates,*
+PFOA,PFPES,0.33,0.13,MWR,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFHPS,0.63,0.00,MWR,Legacy Acids,Legacy Sulfonamides,**
+PFOA,PFDS,-0.06,0.78,MWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFDA,0.44,0.03,MWR,Legacy Acids,Legacy Acids,*
+PFNA,PFDOA,-0.29,0.17,MWR,Legacy Acids,Legacy Acids,
+PFNA,PFTRDA,-0.17,0.44,MWR,Legacy Acids,Legacy Acids,
+PFNA,PFTEDA,-0.25,0.24,MWR,Legacy Acids,Legacy Acids,
+PFNA,PFUNDA,0.31,0.15,MWR,Legacy Acids,Legacy Sulfonates,
+PFNA,PFHXS,0.41,0.05,MWR,Legacy Acids,Legacy Sulfonates,.
+PFNA,PFOS,0.18,0.40,MWR,Legacy Acids,Legacy Sulfonates,
+PFNA,PFPES,0.26,0.24,MWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFHPS,0.33,0.12,MWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFDS,0.07,0.76,MWR,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDOA,-0.13,0.55,MWR,Legacy Acids,Legacy Acids,
+PFDA,PFTRDA,0.10,0.65,MWR,Legacy Acids,Legacy Acids,
+PFDA,PFTEDA,0.07,0.76,MWR,Legacy Acids,Legacy Acids,
+PFDA,PFUNDA,0.70,0.00,MWR,Legacy Acids,Legacy Sulfonates,***
+PFDA,PFHXS,0.40,0.06,MWR,Legacy Acids,Legacy Sulfonates,.
+PFDA,PFOS,0.57,0.00,MWR,Legacy Acids,Legacy Sulfonates,**
+PFDA,PFPES,0.00,1.00,MWR,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFHPS,0.37,0.08,MWR,Legacy Acids,Legacy Sulfonamides,.
+PFDA,PFDS,0.46,0.03,MWR,Legacy Acids,Legacy Sulfonamides,*
+PFDOA,PFTRDA,0.80,0.00,MWR,Legacy Acids,Legacy Acids,***
+PFDOA,PFTEDA,0.79,0.00,MWR,Legacy Acids,Legacy Acids,***
+PFDOA,PFUNDA,0.34,0.11,MWR,Legacy Acids,Legacy Sulfonates,
+PFDOA,PFHXS,0.09,0.69,MWR,Legacy Acids,Legacy Sulfonates,
+PFDOA,PFOS,0.41,0.05,MWR,Legacy Acids,Legacy Sulfonates,.
+PFDOA,PFPES,-0.32,0.13,MWR,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFHPS,0.20,0.35,MWR,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFDS,0.44,0.04,MWR,Legacy Acids,Legacy Sulfonamides,*
+PFTRDA,PFTEDA,0.97,0.00,MWR,Legacy Acids,Legacy Acids,***
+PFTRDA,PFUNDA,0.36,0.09,MWR,Legacy Acids,Legacy Sulfonates,.
+PFTRDA,PFHXS,0.11,0.63,MWR,Legacy Acids,Legacy Sulfonates,
+PFTRDA,PFOS,0.40,0.06,MWR,Legacy Acids,Legacy Sulfonates,.
+PFTRDA,PFPES,-0.35,0.10,MWR,Legacy Acids,Legacy Sulfonamides,.
+PFTRDA,PFHPS,0.18,0.41,MWR,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFDS,0.69,0.00,MWR,Legacy Acids,Legacy Sulfonamides,***
+PFTEDA,PFUNDA,0.27,0.22,MWR,Legacy Acids,Legacy Sulfonates,
+PFTEDA,PFHXS,0.09,0.69,MWR,Legacy Acids,Legacy Sulfonates,
+PFTEDA,PFOS,0.41,0.05,MWR,Legacy Acids,Legacy Sulfonates,.
+PFTEDA,PFPES,-0.32,0.13,MWR,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFHPS,0.23,0.30,MWR,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFDS,0.68,0.00,MWR,Legacy Acids,Legacy Sulfonamides,***
+PFUNDA,PFHXS,0.24,0.27,MWR,Legacy Sulfonates,Legacy Sulfonates,
+PFUNDA,PFOS,0.49,0.02,MWR,Legacy Sulfonates,Legacy Sulfonates,*
+PFUNDA,PFPES,-0.32,0.13,MWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFHPS,0.13,0.55,MWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFDS,0.62,0.00,MWR,Legacy Sulfonates,Legacy Sulfonamides,**
+PFHXS,PFOS,0.65,0.00,MWR,Legacy Sulfonates,Legacy Sulfonates,***
+PFHXS,PFPES,0.35,0.10,MWR,Legacy Sulfonates,Legacy Sulfonamides,.
+PFHXS,PFHPS,0.84,0.00,MWR,Legacy Sulfonates,Legacy Sulfonamides,***
+PFHXS,PFDS,0.16,0.48,MWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFPES,-0.03,0.88,MWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFHPS,0.83,0.00,MWR,Legacy Sulfonates,Legacy Sulfonamides,***
+PFOS,PFDS,0.48,0.03,MWR,Legacy Sulfonates,Legacy Sulfonamides,*
+PFPES,PFHPS,0.32,0.13,MWR,Legacy Sulfonamides,Legacy Sulfonamides,
+PFPES,PFDS,-0.33,0.14,MWR,Legacy Sulfonamides,Legacy Sulfonamides,
+PFHPS,PFDS,0.19,0.39,MWR,Legacy Sulfonamides,Legacy Sulfonamides,
+FTSA6_2,FTSA8_2,NA,NA,UPWR,Precursor,Precursor,
+FTSA6_2,FOSA,NA,NA,UPWR,Precursor,Precursor,
+FTSA6_2,N_ETFOSAA,NA,NA,UPWR,Precursor,Precursor,
+FTSA6_2,N_MEFOSAA,NA,NA,UPWR,Precursor,Precursor,
+FTSA6_2,PFBA,NA,NA,UPWR,Precursor,Short-chain,
+FTSA6_2,PFBS,NA,NA,UPWR,Precursor,Short-chain,
+FTSA6_2,PFHPA,NA,NA,UPWR,Precursor,Short-chain,
+FTSA6_2,PFHXA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA6_2,PFOA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA6_2,PFNA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA6_2,PFDA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA6_2,PFDOA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA6_2,PFTRDA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA6_2,PFTEDA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA6_2,PFUNDA,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFHXS,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFOS,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+FTSA6_2,PFPES,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFHPS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFDS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+FTSA8_2,FOSA,NA,NA,UPWR,Precursor,Precursor,
+FTSA8_2,N_ETFOSAA,NA,NA,UPWR,Precursor,Precursor,
+FTSA8_2,N_MEFOSAA,NA,NA,UPWR,Precursor,Precursor,
+FTSA8_2,PFBA,NA,NA,UPWR,Precursor,Short-chain,
+FTSA8_2,PFBS,NA,NA,UPWR,Precursor,Short-chain,
+FTSA8_2,PFHPA,NA,NA,UPWR,Precursor,Short-chain,
+FTSA8_2,PFHXA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA8_2,PFOA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA8_2,PFNA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA8_2,PFDA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA8_2,PFDOA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA8_2,PFTRDA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA8_2,PFTEDA,NA,NA,UPWR,Precursor,Legacy Acids,
+FTSA8_2,PFUNDA,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+FTSA8_2,PFHXS,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+FTSA8_2,PFOS,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+FTSA8_2,PFPES,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFHPS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFDS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+FOSA,N_ETFOSAA,NA,NA,UPWR,Precursor,Precursor,
+FOSA,N_MEFOSAA,NA,NA,UPWR,Precursor,Precursor,
+FOSA,PFBA,-1.00,0.33,UPWR,Precursor,Short-chain,
+FOSA,PFBS,NA,NA,UPWR,Precursor,Short-chain,
+FOSA,PFHPA,NA,NA,UPWR,Precursor,Short-chain,
+FOSA,PFHXA,-1.00,0.33,UPWR,Precursor,Legacy Acids,
+FOSA,PFOA,NA,NA,UPWR,Precursor,Legacy Acids,
+FOSA,PFNA,0.50,1.00,UPWR,Precursor,Legacy Acids,
+FOSA,PFDA,0.50,1.00,UPWR,Precursor,Legacy Acids,
+FOSA,PFDOA,-0.50,1.00,UPWR,Precursor,Legacy Acids,
+FOSA,PFTRDA,-0.50,1.00,UPWR,Precursor,Legacy Acids,
+FOSA,PFTEDA,-0.87,0.33,UPWR,Precursor,Legacy Acids,
+FOSA,PFUNDA,0.50,1.00,UPWR,Precursor,Legacy Sulfonates,
+FOSA,PFHXS,0.50,1.00,UPWR,Precursor,Legacy Sulfonates,
+FOSA,PFOS,-0.50,1.00,UPWR,Precursor,Legacy Sulfonates,
+FOSA,PFPES,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+FOSA,PFHPS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+FOSA,PFDS,-0.50,1.00,UPWR,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,N_MEFOSAA,NA,NA,UPWR,Precursor,Precursor,
+N_ETFOSAA,PFBA,NA,NA,UPWR,Precursor,Short-chain,
+N_ETFOSAA,PFBS,NA,NA,UPWR,Precursor,Short-chain,
+N_ETFOSAA,PFHPA,NA,NA,UPWR,Precursor,Short-chain,
+N_ETFOSAA,PFHXA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFOA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFNA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFDA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFDOA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFTRDA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFTEDA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_ETFOSAA,PFUNDA,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFHXS,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFOS,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFPES,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFHPS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFDS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFBA,NA,NA,UPWR,Precursor,Short-chain,
+N_MEFOSAA,PFBS,NA,NA,UPWR,Precursor,Short-chain,
+N_MEFOSAA,PFHPA,NA,NA,UPWR,Precursor,Short-chain,
+N_MEFOSAA,PFHXA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFOA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFNA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFDA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFDOA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFTRDA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFTEDA,NA,NA,UPWR,Precursor,Legacy Acids,
+N_MEFOSAA,PFUNDA,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFHXS,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFOS,NA,NA,UPWR,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFPES,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFHPS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFDS,NA,NA,UPWR,Precursor,Legacy Sulfonamides,
+PFBA,PFBS,NA,NA,UPWR,Short-chain,Short-chain,
+PFBA,PFHPA,NA,NA,UPWR,Short-chain,Short-chain,
+PFBA,PFHXA,1.00,0.33,UPWR,Short-chain,Legacy Acids,
+PFBA,PFOA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFBA,PFNA,-0.50,1.00,UPWR,Short-chain,Legacy Acids,
+PFBA,PFDA,-0.50,1.00,UPWR,Short-chain,Legacy Acids,
+PFBA,PFDOA,0.50,1.00,UPWR,Short-chain,Legacy Acids,
+PFBA,PFTRDA,0.50,1.00,UPWR,Short-chain,Legacy Acids,
+PFBA,PFTEDA,0.87,0.33,UPWR,Short-chain,Legacy Acids,
+PFBA,PFUNDA,-0.50,1.00,UPWR,Short-chain,Legacy Sulfonates,
+PFBA,PFHXS,-0.50,1.00,UPWR,Short-chain,Legacy Sulfonates,
+PFBA,PFOS,0.50,1.00,UPWR,Short-chain,Legacy Sulfonates,
+PFBA,PFPES,NA,NA,UPWR,Short-chain,Legacy Sulfonamides,
+PFBA,PFHPS,NA,NA,UPWR,Short-chain,Legacy Sulfonamides,
+PFBA,PFDS,0.50,1.00,UPWR,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPA,NA,NA,UPWR,Short-chain,Short-chain,
+PFBS,PFHXA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFBS,PFOA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFBS,PFNA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFBS,PFDA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFBS,PFDOA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFBS,PFTRDA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFBS,PFTEDA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFBS,PFUNDA,NA,NA,UPWR,Short-chain,Legacy Sulfonates,
+PFBS,PFHXS,NA,NA,UPWR,Short-chain,Legacy Sulfonates,
+PFBS,PFOS,NA,NA,UPWR,Short-chain,Legacy Sulfonates,
+PFBS,PFPES,NA,NA,UPWR,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPS,NA,NA,UPWR,Short-chain,Legacy Sulfonamides,
+PFBS,PFDS,NA,NA,UPWR,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHXA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFHPA,PFOA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFHPA,PFNA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFHPA,PFDA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFHPA,PFDOA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFHPA,PFTRDA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFHPA,PFTEDA,NA,NA,UPWR,Short-chain,Legacy Acids,
+PFHPA,PFUNDA,NA,NA,UPWR,Short-chain,Legacy Sulfonates,
+PFHPA,PFHXS,NA,NA,UPWR,Short-chain,Legacy Sulfonates,
+PFHPA,PFOS,NA,NA,UPWR,Short-chain,Legacy Sulfonates,
+PFHPA,PFPES,NA,NA,UPWR,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHPS,NA,NA,UPWR,Short-chain,Legacy Sulfonamides,
+PFHPA,PFDS,NA,NA,UPWR,Short-chain,Legacy Sulfonamides,
+PFHXA,PFOA,NA,NA,UPWR,Legacy Acids,Legacy Acids,
+PFHXA,PFNA,-0.50,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFHXA,PFDA,-0.50,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFHXA,PFDOA,0.50,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFHXA,PFTRDA,0.50,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFHXA,PFTEDA,0.87,0.33,UPWR,Legacy Acids,Legacy Acids,
+PFHXA,PFUNDA,-0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFHXS,-0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFOS,0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFPES,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFHPS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFDS,0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFNA,NA,NA,UPWR,Legacy Acids,Legacy Acids,
+PFOA,PFDA,NA,NA,UPWR,Legacy Acids,Legacy Acids,
+PFOA,PFDOA,NA,NA,UPWR,Legacy Acids,Legacy Acids,
+PFOA,PFTRDA,NA,NA,UPWR,Legacy Acids,Legacy Acids,
+PFOA,PFTEDA,NA,NA,UPWR,Legacy Acids,Legacy Acids,
+PFOA,PFUNDA,NA,NA,UPWR,Legacy Acids,Legacy Sulfonates,
+PFOA,PFHXS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonates,
+PFOA,PFOS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonates,
+PFOA,PFPES,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFHPS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFDS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFDA,-0.50,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFNA,PFDOA,0.50,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFNA,PFTRDA,-1.00,0.33,UPWR,Legacy Acids,Legacy Acids,
+PFNA,PFTEDA,0.00,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFNA,PFUNDA,-0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFNA,PFHXS,1.00,0.33,UPWR,Legacy Acids,Legacy Sulfonates,
+PFNA,PFOS,0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFNA,PFPES,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFHPS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFDS,0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDOA,-1.00,0.33,UPWR,Legacy Acids,Legacy Acids,
+PFDA,PFTRDA,0.50,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFDA,PFTEDA,-0.87,0.33,UPWR,Legacy Acids,Legacy Acids,
+PFDA,PFUNDA,1.00,0.33,UPWR,Legacy Acids,Legacy Sulfonates,
+PFDA,PFHXS,-0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFDA,PFOS,-1.00,0.33,UPWR,Legacy Acids,Legacy Sulfonates,
+PFDA,PFPES,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFHPS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDS,-1.00,0.33,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFTRDA,-0.50,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFDOA,PFTEDA,0.87,0.33,UPWR,Legacy Acids,Legacy Acids,
+PFDOA,PFUNDA,-1.00,0.33,UPWR,Legacy Acids,Legacy Sulfonates,
+PFDOA,PFHXS,0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFDOA,PFOS,1.00,0.33,UPWR,Legacy Acids,Legacy Sulfonates,
+PFDOA,PFPES,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFHPS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFDS,1.00,0.33,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFTEDA,0.00,1.00,UPWR,Legacy Acids,Legacy Acids,
+PFTRDA,PFUNDA,0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFTRDA,PFHXS,-1.00,0.33,UPWR,Legacy Acids,Legacy Sulfonates,
+PFTRDA,PFOS,-0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFTRDA,PFPES,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFHPS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFDS,-0.50,1.00,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFUNDA,-0.87,0.33,UPWR,Legacy Acids,Legacy Sulfonates,
+PFTEDA,PFHXS,0.00,1.00,UPWR,Legacy Acids,Legacy Sulfonates,
+PFTEDA,PFOS,0.87,0.33,UPWR,Legacy Acids,Legacy Sulfonates,
+PFTEDA,PFPES,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFHPS,NA,NA,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFDS,0.87,0.33,UPWR,Legacy Acids,Legacy Sulfonamides,
+PFUNDA,PFHXS,-0.50,1.00,UPWR,Legacy Sulfonates,Legacy Sulfonates,
+PFUNDA,PFOS,-1.00,0.33,UPWR,Legacy Sulfonates,Legacy Sulfonates,
+PFUNDA,PFPES,NA,NA,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFHPS,NA,NA,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFDS,-1.00,0.33,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFOS,0.50,1.00,UPWR,Legacy Sulfonates,Legacy Sulfonates,
+PFHXS,PFPES,NA,NA,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFHPS,NA,NA,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFDS,0.50,1.00,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFPES,NA,NA,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFHPS,NA,NA,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFDS,1.00,0.33,UPWR,Legacy Sulfonates,Legacy Sulfonamides,
+PFPES,PFHPS,NA,NA,UPWR,Legacy Sulfonamides,Legacy Sulfonamides,
+PFPES,PFDS,NA,NA,UPWR,Legacy Sulfonamides,Legacy Sulfonamides,
+PFHPS,PFDS,NA,NA,UPWR,Legacy Sulfonamides,Legacy Sulfonamides,
+FTSA6_2,FTSA8_2,NA,NA,FRGB,Precursor,Precursor,
+FTSA6_2,FOSA,NA,NA,FRGB,Precursor,Precursor,
+FTSA6_2,N_ETFOSAA,NA,NA,FRGB,Precursor,Precursor,
+FTSA6_2,N_MEFOSAA,NA,NA,FRGB,Precursor,Precursor,
+FTSA6_2,PFBA,NA,NA,FRGB,Precursor,Short-chain,
+FTSA6_2,PFBS,NA,NA,FRGB,Precursor,Short-chain,
+FTSA6_2,PFHPA,NA,NA,FRGB,Precursor,Short-chain,
+FTSA6_2,PFHXA,NA,NA,FRGB,Precursor,Legacy Acids,
+FTSA6_2,PFOA,NA,NA,FRGB,Precursor,Legacy Acids,
+FTSA6_2,PFNA,NA,NA,FRGB,Precursor,Legacy Acids,
+FTSA6_2,PFDA,NA,NA,FRGB,Precursor,Legacy Acids,
+FTSA6_2,PFDOA,NA,NA,FRGB,Precursor,Legacy Acids,
+FTSA6_2,PFTRDA,NA,NA,FRGB,Precursor,Legacy Acids,
+FTSA6_2,PFTEDA,NA,NA,FRGB,Precursor,Legacy Acids,
+FTSA6_2,PFUNDA,NA,NA,FRGB,Precursor,Legacy Sulfonates,
+FTSA6_2,PFHXS,NA,NA,FRGB,Precursor,Legacy Sulfonates,
+FTSA6_2,PFOS,NA,NA,FRGB,Precursor,Legacy Sulfonates,
+FTSA6_2,PFPES,NA,NA,FRGB,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFHPS,NA,NA,FRGB,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFDS,NA,NA,FRGB,Precursor,Legacy Sulfonamides,
+FTSA8_2,FOSA,0.60,0.01,FRGB,Precursor,Precursor,*
+FTSA8_2,N_ETFOSAA,0.61,0.01,FRGB,Precursor,Precursor,**
+FTSA8_2,N_MEFOSAA,0.89,0.00,FRGB,Precursor,Precursor,***
+FTSA8_2,PFBA,-0.05,0.85,FRGB,Precursor,Short-chain,
+FTSA8_2,PFBS,NA,NA,FRGB,Precursor,Short-chain,
+FTSA8_2,PFHPA,NA,NA,FRGB,Precursor,Short-chain,
+FTSA8_2,PFHXA,NA,NA,FRGB,Precursor,Legacy Acids,
+FTSA8_2,PFOA,0.41,0.10,FRGB,Precursor,Legacy Acids,.
+FTSA8_2,PFNA,-0.24,0.34,FRGB,Precursor,Legacy Acids,
+FTSA8_2,PFDA,0.32,0.22,FRGB,Precursor,Legacy Acids,
+FTSA8_2,PFDOA,0.64,0.01,FRGB,Precursor,Legacy Acids,**
+FTSA8_2,PFTRDA,0.63,0.01,FRGB,Precursor,Legacy Acids,**
+FTSA8_2,PFTEDA,0.72,0.00,FRGB,Precursor,Legacy Acids,**
+FTSA8_2,PFUNDA,0.57,0.02,FRGB,Precursor,Legacy Sulfonates,*
+FTSA8_2,PFHXS,0.05,0.86,FRGB,Precursor,Legacy Sulfonates,
+FTSA8_2,PFOS,0.29,0.25,FRGB,Precursor,Legacy Sulfonates,
+FTSA8_2,PFPES,NA,NA,FRGB,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFHPS,0.50,0.04,FRGB,Precursor,Legacy Sulfonamides,*
+FTSA8_2,PFDS,0.57,0.02,FRGB,Precursor,Legacy Sulfonamides,*
+FOSA,N_ETFOSAA,0.66,0.00,FRGB,Precursor,Precursor,**
+FOSA,N_MEFOSAA,0.78,0.00,FRGB,Precursor,Precursor,***
+FOSA,PFBA,0.34,0.18,FRGB,Precursor,Short-chain,
+FOSA,PFBS,NA,NA,FRGB,Precursor,Short-chain,
+FOSA,PFHPA,NA,NA,FRGB,Precursor,Short-chain,
+FOSA,PFHXA,NA,NA,FRGB,Precursor,Legacy Acids,
+FOSA,PFOA,0.45,0.07,FRGB,Precursor,Legacy Acids,.
+FOSA,PFNA,-0.17,0.52,FRGB,Precursor,Legacy Acids,
+FOSA,PFDA,0.66,0.00,FRGB,Precursor,Legacy Acids,**
+FOSA,PFDOA,0.81,0.00,FRGB,Precursor,Legacy Acids,***
+FOSA,PFTRDA,0.79,0.00,FRGB,Precursor,Legacy Acids,***
+FOSA,PFTEDA,0.80,0.00,FRGB,Precursor,Legacy Acids,***
+FOSA,PFUNDA,0.80,0.00,FRGB,Precursor,Legacy Sulfonates,***
+FOSA,PFHXS,-0.03,0.91,FRGB,Precursor,Legacy Sulfonates,
+FOSA,PFOS,0.37,0.15,FRGB,Precursor,Legacy Sulfonates,
+FOSA,PFPES,NA,NA,FRGB,Precursor,Legacy Sulfonamides,
+FOSA,PFHPS,0.24,0.36,FRGB,Precursor,Legacy Sulfonamides,
+FOSA,PFDS,0.54,0.02,FRGB,Precursor,Legacy Sulfonamides,*
+N_ETFOSAA,N_MEFOSAA,0.71,0.00,FRGB,Precursor,Precursor,**
+N_ETFOSAA,PFBA,-0.20,0.45,FRGB,Precursor,Short-chain,
+N_ETFOSAA,PFBS,NA,NA,FRGB,Precursor,Short-chain,
+N_ETFOSAA,PFHPA,NA,NA,FRGB,Precursor,Short-chain,
+N_ETFOSAA,PFHXA,NA,NA,FRGB,Precursor,Legacy Acids,
+N_ETFOSAA,PFOA,0.48,0.05,FRGB,Precursor,Legacy Acids,.
+N_ETFOSAA,PFNA,-0.10,0.69,FRGB,Precursor,Legacy Acids,
+N_ETFOSAA,PFDA,0.31,0.23,FRGB,Precursor,Legacy Acids,
+N_ETFOSAA,PFDOA,0.49,0.05,FRGB,Precursor,Legacy Acids,*
+N_ETFOSAA,PFTRDA,0.60,0.01,FRGB,Precursor,Legacy Acids,*
+N_ETFOSAA,PFTEDA,0.52,0.03,FRGB,Precursor,Legacy Acids,*
+N_ETFOSAA,PFUNDA,0.46,0.07,FRGB,Precursor,Legacy Sulfonates,.
+N_ETFOSAA,PFHXS,-0.31,0.23,FRGB,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFOS,0.02,0.94,FRGB,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFPES,NA,NA,FRGB,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFHPS,0.13,0.63,FRGB,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFDS,0.57,0.02,FRGB,Precursor,Legacy Sulfonamides,*
+N_MEFOSAA,PFBA,-0.01,0.98,FRGB,Precursor,Short-chain,
+N_MEFOSAA,PFBS,NA,NA,FRGB,Precursor,Short-chain,
+N_MEFOSAA,PFHPA,NA,NA,FRGB,Precursor,Short-chain,
+N_MEFOSAA,PFHXA,NA,NA,FRGB,Precursor,Legacy Acids,
+N_MEFOSAA,PFOA,0.46,0.06,FRGB,Precursor,Legacy Acids,.
+N_MEFOSAA,PFNA,-0.09,0.75,FRGB,Precursor,Legacy Acids,
+N_MEFOSAA,PFDA,0.60,0.01,FRGB,Precursor,Legacy Acids,*
+N_MEFOSAA,PFDOA,0.83,0.00,FRGB,Precursor,Legacy Acids,***
+N_MEFOSAA,PFTRDA,0.83,0.00,FRGB,Precursor,Legacy Acids,***
+N_MEFOSAA,PFTEDA,0.86,0.00,FRGB,Precursor,Legacy Acids,***
+N_MEFOSAA,PFUNDA,0.79,0.00,FRGB,Precursor,Legacy Sulfonates,***
+N_MEFOSAA,PFHXS,0.10,0.70,FRGB,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFOS,0.43,0.08,FRGB,Precursor,Legacy Sulfonates,.
+N_MEFOSAA,PFPES,NA,NA,FRGB,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFHPS,0.44,0.08,FRGB,Precursor,Legacy Sulfonamides,.
+N_MEFOSAA,PFDS,0.67,0.00,FRGB,Precursor,Legacy Sulfonamides,**
+PFBA,PFBS,NA,NA,FRGB,Short-chain,Short-chain,
+PFBA,PFHPA,NA,NA,FRGB,Short-chain,Short-chain,
+PFBA,PFHXA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFBA,PFOA,0.30,0.24,FRGB,Short-chain,Legacy Acids,
+PFBA,PFNA,0.01,0.98,FRGB,Short-chain,Legacy Acids,
+PFBA,PFDA,0.09,0.73,FRGB,Short-chain,Legacy Acids,
+PFBA,PFDOA,0.29,0.26,FRGB,Short-chain,Legacy Acids,
+PFBA,PFTRDA,0.24,0.35,FRGB,Short-chain,Legacy Acids,
+PFBA,PFTEDA,0.22,0.41,FRGB,Short-chain,Legacy Acids,
+PFBA,PFUNDA,0.20,0.45,FRGB,Short-chain,Legacy Sulfonates,
+PFBA,PFHXS,0.22,0.39,FRGB,Short-chain,Legacy Sulfonates,
+PFBA,PFOS,0.26,0.31,FRGB,Short-chain,Legacy Sulfonates,
+PFBA,PFPES,NA,NA,FRGB,Short-chain,Legacy Sulfonamides,
+PFBA,PFHPS,0.33,0.19,FRGB,Short-chain,Legacy Sulfonamides,
+PFBA,PFDS,0.15,0.57,FRGB,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPA,NA,NA,FRGB,Short-chain,Short-chain,
+PFBS,PFHXA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFBS,PFOA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFBS,PFNA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFBS,PFDA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFBS,PFDOA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFBS,PFTRDA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFBS,PFTEDA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFBS,PFUNDA,NA,NA,FRGB,Short-chain,Legacy Sulfonates,
+PFBS,PFHXS,NA,NA,FRGB,Short-chain,Legacy Sulfonates,
+PFBS,PFOS,NA,NA,FRGB,Short-chain,Legacy Sulfonates,
+PFBS,PFPES,NA,NA,FRGB,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPS,NA,NA,FRGB,Short-chain,Legacy Sulfonamides,
+PFBS,PFDS,NA,NA,FRGB,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHXA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFHPA,PFOA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFHPA,PFNA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFHPA,PFDA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFHPA,PFDOA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFHPA,PFTRDA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFHPA,PFTEDA,NA,NA,FRGB,Short-chain,Legacy Acids,
+PFHPA,PFUNDA,NA,NA,FRGB,Short-chain,Legacy Sulfonates,
+PFHPA,PFHXS,NA,NA,FRGB,Short-chain,Legacy Sulfonates,
+PFHPA,PFOS,NA,NA,FRGB,Short-chain,Legacy Sulfonates,
+PFHPA,PFPES,NA,NA,FRGB,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHPS,NA,NA,FRGB,Short-chain,Legacy Sulfonamides,
+PFHPA,PFDS,NA,NA,FRGB,Short-chain,Legacy Sulfonamides,
+PFHXA,PFOA,NA,NA,FRGB,Legacy Acids,Legacy Acids,
+PFHXA,PFNA,NA,NA,FRGB,Legacy Acids,Legacy Acids,
+PFHXA,PFDA,NA,NA,FRGB,Legacy Acids,Legacy Acids,
+PFHXA,PFDOA,NA,NA,FRGB,Legacy Acids,Legacy Acids,
+PFHXA,PFTRDA,NA,NA,FRGB,Legacy Acids,Legacy Acids,
+PFHXA,PFTEDA,NA,NA,FRGB,Legacy Acids,Legacy Acids,
+PFHXA,PFUNDA,NA,NA,FRGB,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFHXS,NA,NA,FRGB,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFOS,NA,NA,FRGB,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFPES,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFHPS,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFDS,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFNA,0.42,0.10,FRGB,Legacy Acids,Legacy Acids,.
+PFOA,PFDA,0.14,0.59,FRGB,Legacy Acids,Legacy Acids,
+PFOA,PFDOA,0.36,0.16,FRGB,Legacy Acids,Legacy Acids,
+PFOA,PFTRDA,0.52,0.04,FRGB,Legacy Acids,Legacy Acids,*
+PFOA,PFTEDA,0.58,0.02,FRGB,Legacy Acids,Legacy Acids,*
+PFOA,PFUNDA,0.36,0.16,FRGB,Legacy Acids,Legacy Sulfonates,
+PFOA,PFHXS,0.32,0.22,FRGB,Legacy Acids,Legacy Sulfonates,
+PFOA,PFOS,0.36,0.16,FRGB,Legacy Acids,Legacy Sulfonates,
+PFOA,PFPES,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFHPS,0.77,0.00,FRGB,Legacy Acids,Legacy Sulfonamides,***
+PFOA,PFDS,0.55,0.02,FRGB,Legacy Acids,Legacy Sulfonamides,*
+PFNA,PFDA,0.32,0.20,FRGB,Legacy Acids,Legacy Acids,
+PFNA,PFDOA,0.09,0.73,FRGB,Legacy Acids,Legacy Acids,
+PFNA,PFTRDA,0.21,0.42,FRGB,Legacy Acids,Legacy Acids,
+PFNA,PFTEDA,0.21,0.41,FRGB,Legacy Acids,Legacy Acids,
+PFNA,PFUNDA,0.17,0.50,FRGB,Legacy Acids,Legacy Sulfonates,
+PFNA,PFHXS,0.75,0.00,FRGB,Legacy Acids,Legacy Sulfonates,***
+PFNA,PFOS,0.40,0.12,FRGB,Legacy Acids,Legacy Sulfonates,
+PFNA,PFPES,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFHPS,0.45,0.07,FRGB,Legacy Acids,Legacy Sulfonamides,.
+PFNA,PFDS,0.25,0.34,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDOA,0.82,0.00,FRGB,Legacy Acids,Legacy Acids,***
+PFDA,PFTRDA,0.76,0.00,FRGB,Legacy Acids,Legacy Acids,***
+PFDA,PFTEDA,0.75,0.00,FRGB,Legacy Acids,Legacy Acids,***
+PFDA,PFUNDA,0.89,0.00,FRGB,Legacy Acids,Legacy Sulfonates,***
+PFDA,PFHXS,0.44,0.08,FRGB,Legacy Acids,Legacy Sulfonates,.
+PFDA,PFOS,0.58,0.01,FRGB,Legacy Acids,Legacy Sulfonates,*
+PFDA,PFPES,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFHPS,0.15,0.56,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDS,0.51,0.03,FRGB,Legacy Acids,Legacy Sulfonamides,*
+PFDOA,PFTRDA,0.94,0.00,FRGB,Legacy Acids,Legacy Acids,***
+PFDOA,PFTEDA,0.91,0.00,FRGB,Legacy Acids,Legacy Acids,***
+PFDOA,PFUNDA,0.93,0.00,FRGB,Legacy Acids,Legacy Sulfonates,***
+PFDOA,PFHXS,0.33,0.19,FRGB,Legacy Acids,Legacy Sulfonates,
+PFDOA,PFOS,0.63,0.01,FRGB,Legacy Acids,Legacy Sulfonates,**
+PFDOA,PFPES,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFHPS,0.36,0.16,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFDS,0.68,0.00,FRGB,Legacy Acids,Legacy Sulfonamides,**
+PFTRDA,PFTEDA,0.95,0.00,FRGB,Legacy Acids,Legacy Acids,***
+PFTRDA,PFUNDA,0.90,0.00,FRGB,Legacy Acids,Legacy Sulfonates,***
+PFTRDA,PFHXS,0.38,0.13,FRGB,Legacy Acids,Legacy Sulfonates,
+PFTRDA,PFOS,0.67,0.00,FRGB,Legacy Acids,Legacy Sulfonates,**
+PFTRDA,PFPES,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFHPS,0.46,0.06,FRGB,Legacy Acids,Legacy Sulfonamides,.
+PFTRDA,PFDS,0.83,0.00,FRGB,Legacy Acids,Legacy Sulfonamides,***
+PFTEDA,PFUNDA,0.89,0.00,FRGB,Legacy Acids,Legacy Sulfonates,***
+PFTEDA,PFHXS,0.46,0.06,FRGB,Legacy Acids,Legacy Sulfonates,.
+PFTEDA,PFOS,0.70,0.00,FRGB,Legacy Acids,Legacy Sulfonates,**
+PFTEDA,PFPES,NA,NA,FRGB,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFHPS,0.60,0.01,FRGB,Legacy Acids,Legacy Sulfonamides,*
+PFTEDA,PFDS,0.77,0.00,FRGB,Legacy Acids,Legacy Sulfonamides,***
+PFUNDA,PFHXS,0.39,0.12,FRGB,Legacy Sulfonates,Legacy Sulfonates,
+PFUNDA,PFOS,0.62,0.01,FRGB,Legacy Sulfonates,Legacy Sulfonates,**
+PFUNDA,PFPES,NA,NA,FRGB,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFHPS,0.31,0.23,FRGB,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFDS,0.63,0.01,FRGB,Legacy Sulfonates,Legacy Sulfonamides,**
+PFHXS,PFOS,0.57,0.02,FRGB,Legacy Sulfonates,Legacy Sulfonates,*
+PFHXS,PFPES,NA,NA,FRGB,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFHPS,0.64,0.01,FRGB,Legacy Sulfonates,Legacy Sulfonamides,**
+PFHXS,PFDS,0.34,0.18,FRGB,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFPES,NA,NA,FRGB,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFHPS,0.51,0.04,FRGB,Legacy Sulfonates,Legacy Sulfonamides,*
+PFOS,PFDS,0.71,0.00,FRGB,Legacy Sulfonates,Legacy Sulfonamides,**
+PFPES,PFHPS,NA,NA,FRGB,Legacy Sulfonamides,Legacy Sulfonamides,
+PFPES,PFDS,NA,NA,FRGB,Legacy Sulfonamides,Legacy Sulfonamides,
+PFHPS,PFDS,0.57,0.02,FRGB,Legacy Sulfonamides,Legacy Sulfonamides,*
+FTSA6_2,FTSA8_2,NA,NA,GBLM,Precursor,Precursor,
+FTSA6_2,FOSA,NA,NA,GBLM,Precursor,Precursor,
+FTSA6_2,N_ETFOSAA,NA,NA,GBLM,Precursor,Precursor,
+FTSA6_2,N_MEFOSAA,NA,NA,GBLM,Precursor,Precursor,
+FTSA6_2,PFBA,NA,NA,GBLM,Precursor,Short-chain,
+FTSA6_2,PFBS,NA,NA,GBLM,Precursor,Short-chain,
+FTSA6_2,PFHPA,NA,NA,GBLM,Precursor,Short-chain,
+FTSA6_2,PFHXA,NA,NA,GBLM,Precursor,Legacy Acids,
+FTSA6_2,PFOA,NA,NA,GBLM,Precursor,Legacy Acids,
+FTSA6_2,PFNA,NA,NA,GBLM,Precursor,Legacy Acids,
+FTSA6_2,PFDA,NA,NA,GBLM,Precursor,Legacy Acids,
+FTSA6_2,PFDOA,NA,NA,GBLM,Precursor,Legacy Acids,
+FTSA6_2,PFTRDA,NA,NA,GBLM,Precursor,Legacy Acids,
+FTSA6_2,PFTEDA,NA,NA,GBLM,Precursor,Legacy Acids,
+FTSA6_2,PFUNDA,NA,NA,GBLM,Precursor,Legacy Sulfonates,
+FTSA6_2,PFHXS,NA,NA,GBLM,Precursor,Legacy Sulfonates,
+FTSA6_2,PFOS,NA,NA,GBLM,Precursor,Legacy Sulfonates,
+FTSA6_2,PFPES,NA,NA,GBLM,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFHPS,NA,NA,GBLM,Precursor,Legacy Sulfonamides,
+FTSA6_2,PFDS,NA,NA,GBLM,Precursor,Legacy Sulfonamides,
+FTSA8_2,FOSA,0.83,0.00,GBLM,Precursor,Precursor,***
+FTSA8_2,N_ETFOSAA,0.68,0.00,GBLM,Precursor,Precursor,**
+FTSA8_2,N_MEFOSAA,0.68,0.00,GBLM,Precursor,Precursor,**
+FTSA8_2,PFBA,-0.35,0.15,GBLM,Precursor,Short-chain,
+FTSA8_2,PFBS,NA,NA,GBLM,Precursor,Short-chain,
+FTSA8_2,PFHPA,NA,NA,GBLM,Precursor,Short-chain,
+FTSA8_2,PFHXA,NA,NA,GBLM,Precursor,Legacy Acids,
+FTSA8_2,PFOA,-0.75,0.00,GBLM,Precursor,Legacy Acids,***
+FTSA8_2,PFNA,-0.66,0.00,GBLM,Precursor,Legacy Acids,**
+FTSA8_2,PFDA,0.09,0.72,GBLM,Precursor,Legacy Acids,
+FTSA8_2,PFDOA,0.41,0.08,GBLM,Precursor,Legacy Acids,.
+FTSA8_2,PFTRDA,-0.02,0.92,GBLM,Precursor,Legacy Acids,
+FTSA8_2,PFTEDA,0.14,0.58,GBLM,Precursor,Legacy Acids,
+FTSA8_2,PFUNDA,0.22,0.37,GBLM,Precursor,Legacy Sulfonates,
+FTSA8_2,PFHXS,0.20,0.42,GBLM,Precursor,Legacy Sulfonates,
+FTSA8_2,PFOS,-0.21,0.40,GBLM,Precursor,Legacy Sulfonates,
+FTSA8_2,PFPES,NA,NA,GBLM,Precursor,Legacy Sulfonamides,
+FTSA8_2,PFHPS,-0.57,0.01,GBLM,Precursor,Legacy Sulfonamides,*
+FTSA8_2,PFDS,0.00,1.00,GBLM,Precursor,Legacy Sulfonamides,
+FOSA,N_ETFOSAA,0.58,0.01,GBLM,Precursor,Precursor,**
+FOSA,N_MEFOSAA,0.58,0.01,GBLM,Precursor,Precursor,**
+FOSA,PFBA,-0.52,0.02,GBLM,Precursor,Short-chain,*
+FOSA,PFBS,NA,NA,GBLM,Precursor,Short-chain,
+FOSA,PFHPA,NA,NA,GBLM,Precursor,Short-chain,
+FOSA,PFHXA,NA,NA,GBLM,Precursor,Legacy Acids,
+FOSA,PFOA,-0.57,0.01,GBLM,Precursor,Legacy Acids,*
+FOSA,PFNA,-0.51,0.03,GBLM,Precursor,Legacy Acids,*
+FOSA,PFDA,0.25,0.29,GBLM,Precursor,Legacy Acids,
+FOSA,PFDOA,0.44,0.06,GBLM,Precursor,Legacy Acids,.
+FOSA,PFTRDA,0.17,0.49,GBLM,Precursor,Legacy Acids,
+FOSA,PFTEDA,0.26,0.28,GBLM,Precursor,Legacy Acids,
+FOSA,PFUNDA,0.34,0.16,GBLM,Precursor,Legacy Sulfonates,
+FOSA,PFHXS,0.28,0.24,GBLM,Precursor,Legacy Sulfonates,
+FOSA,PFOS,0.07,0.77,GBLM,Precursor,Legacy Sulfonates,
+FOSA,PFPES,NA,NA,GBLM,Precursor,Legacy Sulfonamides,
+FOSA,PFHPS,-0.35,0.14,GBLM,Precursor,Legacy Sulfonamides,
+FOSA,PFDS,0.09,0.70,GBLM,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,N_MEFOSAA,1.00,0.00,GBLM,Precursor,Precursor,***
+N_ETFOSAA,PFBA,-0.20,0.41,GBLM,Precursor,Short-chain,
+N_ETFOSAA,PFBS,NA,NA,GBLM,Precursor,Short-chain,
+N_ETFOSAA,PFHPA,NA,NA,GBLM,Precursor,Short-chain,
+N_ETFOSAA,PFHXA,NA,NA,GBLM,Precursor,Legacy Acids,
+N_ETFOSAA,PFOA,-0.47,0.04,GBLM,Precursor,Legacy Acids,*
+N_ETFOSAA,PFNA,-0.53,0.02,GBLM,Precursor,Legacy Acids,*
+N_ETFOSAA,PFDA,-0.10,0.70,GBLM,Precursor,Legacy Acids,
+N_ETFOSAA,PFDOA,0.37,0.12,GBLM,Precursor,Legacy Acids,
+N_ETFOSAA,PFTRDA,-0.13,0.60,GBLM,Precursor,Legacy Acids,
+N_ETFOSAA,PFTEDA,0.28,0.25,GBLM,Precursor,Legacy Acids,
+N_ETFOSAA,PFUNDA,-0.03,0.89,GBLM,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFHXS,-0.35,0.14,GBLM,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFOS,-0.34,0.15,GBLM,Precursor,Legacy Sulfonates,
+N_ETFOSAA,PFPES,NA,NA,GBLM,Precursor,Legacy Sulfonamides,
+N_ETFOSAA,PFHPS,-0.46,0.05,GBLM,Precursor,Legacy Sulfonamides,*
+N_ETFOSAA,PFDS,-0.01,0.97,GBLM,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFBA,-0.20,0.41,GBLM,Precursor,Short-chain,
+N_MEFOSAA,PFBS,NA,NA,GBLM,Precursor,Short-chain,
+N_MEFOSAA,PFHPA,NA,NA,GBLM,Precursor,Short-chain,
+N_MEFOSAA,PFHXA,NA,NA,GBLM,Precursor,Legacy Acids,
+N_MEFOSAA,PFOA,-0.47,0.04,GBLM,Precursor,Legacy Acids,*
+N_MEFOSAA,PFNA,-0.53,0.02,GBLM,Precursor,Legacy Acids,*
+N_MEFOSAA,PFDA,-0.10,0.70,GBLM,Precursor,Legacy Acids,
+N_MEFOSAA,PFDOA,0.37,0.12,GBLM,Precursor,Legacy Acids,
+N_MEFOSAA,PFTRDA,-0.13,0.60,GBLM,Precursor,Legacy Acids,
+N_MEFOSAA,PFTEDA,0.28,0.25,GBLM,Precursor,Legacy Acids,
+N_MEFOSAA,PFUNDA,-0.03,0.89,GBLM,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFHXS,-0.35,0.14,GBLM,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFOS,-0.34,0.15,GBLM,Precursor,Legacy Sulfonates,
+N_MEFOSAA,PFPES,NA,NA,GBLM,Precursor,Legacy Sulfonamides,
+N_MEFOSAA,PFHPS,-0.46,0.05,GBLM,Precursor,Legacy Sulfonamides,*
+N_MEFOSAA,PFDS,-0.01,0.97,GBLM,Precursor,Legacy Sulfonamides,
+PFBA,PFBS,NA,NA,GBLM,Short-chain,Short-chain,
+PFBA,PFHPA,NA,NA,GBLM,Short-chain,Short-chain,
+PFBA,PFHXA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFBA,PFOA,0.32,0.17,GBLM,Short-chain,Legacy Acids,
+PFBA,PFNA,-0.15,0.53,GBLM,Short-chain,Legacy Acids,
+PFBA,PFDA,-0.65,0.00,GBLM,Short-chain,Legacy Acids,**
+PFBA,PFDOA,-0.55,0.01,GBLM,Short-chain,Legacy Acids,*
+PFBA,PFTRDA,-0.65,0.00,GBLM,Short-chain,Legacy Acids,**
+PFBA,PFTEDA,-0.33,0.17,GBLM,Short-chain,Legacy Acids,
+PFBA,PFUNDA,-0.65,0.00,GBLM,Short-chain,Legacy Sulfonates,**
+PFBA,PFHXS,-0.24,0.32,GBLM,Short-chain,Legacy Sulfonates,
+PFBA,PFOS,-0.42,0.08,GBLM,Short-chain,Legacy Sulfonates,.
+PFBA,PFPES,NA,NA,GBLM,Short-chain,Legacy Sulfonamides,
+PFBA,PFHPS,0.31,0.19,GBLM,Short-chain,Legacy Sulfonamides,
+PFBA,PFDS,-0.24,0.32,GBLM,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPA,NA,NA,GBLM,Short-chain,Short-chain,
+PFBS,PFHXA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFBS,PFOA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFBS,PFNA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFBS,PFDA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFBS,PFDOA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFBS,PFTRDA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFBS,PFTEDA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFBS,PFUNDA,NA,NA,GBLM,Short-chain,Legacy Sulfonates,
+PFBS,PFHXS,NA,NA,GBLM,Short-chain,Legacy Sulfonates,
+PFBS,PFOS,NA,NA,GBLM,Short-chain,Legacy Sulfonates,
+PFBS,PFPES,NA,NA,GBLM,Short-chain,Legacy Sulfonamides,
+PFBS,PFHPS,NA,NA,GBLM,Short-chain,Legacy Sulfonamides,
+PFBS,PFDS,NA,NA,GBLM,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHXA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFHPA,PFOA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFHPA,PFNA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFHPA,PFDA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFHPA,PFDOA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFHPA,PFTRDA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFHPA,PFTEDA,NA,NA,GBLM,Short-chain,Legacy Acids,
+PFHPA,PFUNDA,NA,NA,GBLM,Short-chain,Legacy Sulfonates,
+PFHPA,PFHXS,NA,NA,GBLM,Short-chain,Legacy Sulfonates,
+PFHPA,PFOS,NA,NA,GBLM,Short-chain,Legacy Sulfonates,
+PFHPA,PFPES,NA,NA,GBLM,Short-chain,Legacy Sulfonamides,
+PFHPA,PFHPS,NA,NA,GBLM,Short-chain,Legacy Sulfonamides,
+PFHPA,PFDS,NA,NA,GBLM,Short-chain,Legacy Sulfonamides,
+PFHXA,PFOA,NA,NA,GBLM,Legacy Acids,Legacy Acids,
+PFHXA,PFNA,NA,NA,GBLM,Legacy Acids,Legacy Acids,
+PFHXA,PFDA,NA,NA,GBLM,Legacy Acids,Legacy Acids,
+PFHXA,PFDOA,NA,NA,GBLM,Legacy Acids,Legacy Acids,
+PFHXA,PFTRDA,NA,NA,GBLM,Legacy Acids,Legacy Acids,
+PFHXA,PFTEDA,NA,NA,GBLM,Legacy Acids,Legacy Acids,
+PFHXA,PFUNDA,NA,NA,GBLM,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFHXS,NA,NA,GBLM,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFOS,NA,NA,GBLM,Legacy Acids,Legacy Sulfonates,
+PFHXA,PFPES,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFHPS,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFHXA,PFDS,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFNA,0.49,0.03,GBLM,Legacy Acids,Legacy Acids,*
+PFOA,PFDA,-0.19,0.44,GBLM,Legacy Acids,Legacy Acids,
+PFOA,PFDOA,-0.27,0.27,GBLM,Legacy Acids,Legacy Acids,
+PFOA,PFTRDA,-0.08,0.73,GBLM,Legacy Acids,Legacy Acids,
+PFOA,PFTEDA,0.02,0.95,GBLM,Legacy Acids,Legacy Acids,
+PFOA,PFUNDA,-0.21,0.39,GBLM,Legacy Acids,Legacy Sulfonates,
+PFOA,PFHXS,0.01,0.97,GBLM,Legacy Acids,Legacy Sulfonates,
+PFOA,PFOS,0.02,0.92,GBLM,Legacy Acids,Legacy Sulfonates,
+PFOA,PFPES,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFOA,PFHPS,0.51,0.02,GBLM,Legacy Acids,Legacy Sulfonamides,*
+PFOA,PFDS,0.24,0.33,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFDA,0.62,0.01,GBLM,Legacy Acids,Legacy Acids,**
+PFNA,PFDOA,0.30,0.21,GBLM,Legacy Acids,Legacy Acids,
+PFNA,PFTRDA,0.60,0.01,GBLM,Legacy Acids,Legacy Acids,**
+PFNA,PFTEDA,0.35,0.14,GBLM,Legacy Acids,Legacy Acids,
+PFNA,PFUNDA,0.50,0.03,GBLM,Legacy Acids,Legacy Sulfonates,*
+PFNA,PFHXS,0.00,0.99,GBLM,Legacy Acids,Legacy Sulfonates,
+PFNA,PFOS,0.51,0.03,GBLM,Legacy Acids,Legacy Sulfonates,*
+PFNA,PFPES,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFNA,PFHPS,0.53,0.02,GBLM,Legacy Acids,Legacy Sulfonamides,*
+PFNA,PFDS,0.04,0.88,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDOA,0.79,0.00,GBLM,Legacy Acids,Legacy Acids,***
+PFDA,PFTRDA,0.90,0.00,GBLM,Legacy Acids,Legacy Acids,***
+PFDA,PFTEDA,0.61,0.01,GBLM,Legacy Acids,Legacy Acids,**
+PFDA,PFUNDA,0.96,0.00,GBLM,Legacy Acids,Legacy Sulfonates,***
+PFDA,PFHXS,0.26,0.28,GBLM,Legacy Acids,Legacy Sulfonates,
+PFDA,PFOS,0.72,0.00,GBLM,Legacy Acids,Legacy Sulfonates,***
+PFDA,PFPES,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFHPS,0.23,0.34,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFDA,PFDS,0.08,0.75,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFTRDA,0.74,0.00,GBLM,Legacy Acids,Legacy Acids,***
+PFDOA,PFTEDA,0.82,0.00,GBLM,Legacy Acids,Legacy Acids,***
+PFDOA,PFUNDA,0.82,0.00,GBLM,Legacy Acids,Legacy Sulfonates,***
+PFDOA,PFHXS,0.23,0.34,GBLM,Legacy Acids,Legacy Sulfonates,
+PFDOA,PFOS,0.48,0.04,GBLM,Legacy Acids,Legacy Sulfonates,*
+PFDOA,PFPES,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFHPS,0.08,0.74,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFDOA,PFDS,0.27,0.26,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFTEDA,0.60,0.01,GBLM,Legacy Acids,Legacy Acids,**
+PFTRDA,PFUNDA,0.88,0.00,GBLM,Legacy Acids,Legacy Sulfonates,***
+PFTRDA,PFHXS,0.29,0.24,GBLM,Legacy Acids,Legacy Sulfonates,
+PFTRDA,PFOS,0.71,0.00,GBLM,Legacy Acids,Legacy Sulfonates,**
+PFTRDA,PFPES,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFHPS,0.25,0.31,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFTRDA,PFDS,0.37,0.12,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFUNDA,0.66,0.00,GBLM,Legacy Acids,Legacy Sulfonates,**
+PFTEDA,PFHXS,0.31,0.19,GBLM,Legacy Acids,Legacy Sulfonates,
+PFTEDA,PFOS,0.39,0.10,GBLM,Legacy Acids,Legacy Sulfonates,
+PFTEDA,PFPES,NA,NA,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFTEDA,PFHPS,0.42,0.08,GBLM,Legacy Acids,Legacy Sulfonamides,.
+PFTEDA,PFDS,0.33,0.17,GBLM,Legacy Acids,Legacy Sulfonamides,
+PFUNDA,PFHXS,0.38,0.11,GBLM,Legacy Sulfonates,Legacy Sulfonates,
+PFUNDA,PFOS,0.69,0.00,GBLM,Legacy Sulfonates,Legacy Sulfonates,**
+PFUNDA,PFPES,NA,NA,GBLM,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFHPS,0.22,0.36,GBLM,Legacy Sulfonates,Legacy Sulfonamides,
+PFUNDA,PFDS,0.17,0.49,GBLM,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFOS,0.33,0.17,GBLM,Legacy Sulfonates,Legacy Sulfonates,
+PFHXS,PFPES,NA,NA,GBLM,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFHPS,0.31,0.20,GBLM,Legacy Sulfonates,Legacy Sulfonamides,
+PFHXS,PFDS,0.45,0.05,GBLM,Legacy Sulfonates,Legacy Sulfonamides,.
+PFOS,PFPES,NA,NA,GBLM,Legacy Sulfonates,Legacy Sulfonamides,
+PFOS,PFHPS,0.53,0.02,GBLM,Legacy Sulfonates,Legacy Sulfonamides,*
+PFOS,PFDS,0.27,0.26,GBLM,Legacy Sulfonates,Legacy Sulfonamides,
+PFPES,PFHPS,NA,NA,GBLM,Legacy Sulfonamides,Legacy Sulfonamides,
+PFPES,PFDS,NA,NA,GBLM,Legacy Sulfonamides,Legacy Sulfonamides,
+PFHPS,PFDS,0.22,0.36,GBLM,Legacy Sulfonamides,Legacy Sulfonamides,
