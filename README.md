@@ -1,0 +1,1 @@
+This is a repository to store the details of our study on Bald eagles (BAEA) throughout Wisconsin from 2023-2025. We used these data to understand the fingerprinting (signature) of PFAS across the state of Wisconsin. Files are organized by data, scripts, output-data, and output-figure. Final figures can be found in the 'published-figures' folder.
