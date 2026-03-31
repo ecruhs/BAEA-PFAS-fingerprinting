@@ -1,0 +1,43 @@
+PFAS_1,PFAS_2,Correlation,Region,Group_1,Group_2
+PFUNDA,PFDA,0.991739661,AIS,Legacy Acids,Legacy Acids
+PFDA,PFUNDA,0.991739661,AIS,Legacy Acids,Legacy Acids
+PFUNDA,PFDOA,0.977588107,AIS,Legacy Acids,Legacy Acids
+PFDOA,PFUNDA,0.977588107,AIS,Legacy Acids,Legacy Acids
+PFOA,PFHPA,0.976155487,AIS,Legacy Acids,Short-chain
+PFHPA,PFOA,0.976155487,AIS,Short-chain,Legacy Acids
+PFUNDA,PFDA,0.964026118,FRGB,Legacy Acids,Legacy Acids
+PFDA,PFUNDA,0.964026118,FRGB,Legacy Acids,Legacy Acids
+PFTRDA,PFDOA,0.953344553,FRGB,Legacy Acids,Legacy Acids
+PFDOA,PFTRDA,0.953344553,FRGB,Legacy Acids,Legacy Acids
+PFUNDA,PFDOA,0.924368366,FRGB,Legacy Acids,Legacy Acids
+PFDOA,PFUNDA,0.924368366,FRGB,Legacy Acids,Legacy Acids
+N_MEFOSAA,N_ETFOSAA,0.99333887,GBLM,Precursor,Precursor
+N_ETFOSAA,N_MEFOSAA,0.99333887,GBLM,Precursor,Precursor
+N_MEFOSAA,FTSA8_2,0.944271782,GBLM,Precursor,Precursor
+FTSA8_2,N_MEFOSAA,0.944271782,GBLM,Precursor,Precursor
+N_ETFOSAA,FTSA8_2,0.930464561,GBLM,Precursor,Precursor
+FTSA8_2,N_ETFOSAA,0.930464561,GBLM,Precursor,Precursor
+PFTEDA,PFDOA,0.973602242,LWR,Legacy Sulfonamides,Legacy Acids
+PFDOA,PFTEDA,0.973602242,LWR,Legacy Acids,Legacy Sulfonamides
+PFUNDA,PFDA,0.966300875,LWR,Legacy Acids,Legacy Acids
+PFDA,PFUNDA,0.966300875,LWR,Legacy Acids,Legacy Acids
+PFTEDA,PFTRDA,0.955810142,LWR,Legacy Sulfonamides,Legacy Acids
+PFTRDA,PFTEDA,0.955810142,LWR,Legacy Acids,Legacy Sulfonamides
+PFTEDA,PFTRDA,0.96589151,MWR,Legacy Sulfonamides,Legacy Acids
+PFTRDA,PFTEDA,0.96589151,MWR,Legacy Acids,Legacy Sulfonamides
+PFPES,PFHPA,0.925327012,MWR,Legacy Sulfonates,Short-chain
+PFHPA,PFPES,0.925327012,MWR,Short-chain,Legacy Sulfonates
+PFDOA,FOSA,0.917569439,MWR,Legacy Acids,Precursor
+FOSA,PFDOA,0.917569439,MWR,Precursor,Legacy Acids
+PFUNDA,PFDA,0.992269463,SSS,Legacy Acids,Legacy Acids
+PFDA,PFUNDA,0.992269463,SSS,Legacy Acids,Legacy Acids
+PFDA,PFNA,0.983035235,SSS,Legacy Acids,Legacy Acids
+PFNA,PFDA,0.983035235,SSS,Legacy Acids,Legacy Acids
+PFUNDA,PFNA,0.981064762,SSS,Legacy Acids,Legacy Acids
+PFNA,PFUNDA,0.981064762,SSS,Legacy Acids,Legacy Acids
+PFUNDA,PFDA,0.999640085,UPWR,Legacy Acids,Legacy Acids
+PFDA,PFUNDA,0.999640085,UPWR,Legacy Acids,Legacy Acids
+PFDS,PFOS,0.994874096,UPWR,Legacy Sulfonamides,Legacy Sulfonates
+PFOS,PFDS,0.994874096,UPWR,Legacy Sulfonates,Legacy Sulfonamides
+PFHXS,PFNA,0.993666069,UPWR,Legacy Sulfonates,Legacy Acids
+PFNA,PFHXS,0.993666069,UPWR,Legacy Acids,Legacy Sulfonates
